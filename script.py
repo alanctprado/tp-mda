@@ -1,9 +1,10 @@
+from datetime import datetime
 import hashlib
 import json
 import random
-from datetime import datetime
-
 import requests
+import sys
+from typing import Tuple
 
 
 API = "https://codeforces.com/api"
@@ -11,14 +12,30 @@ with open("credentials.json") as f:
     credentials = json.load(f)
 
 
-def call(methodName: str, params: dict) -> dict:
+def parse_arguments() -> Tuple[str, str, dict]:
+    parameters = {}
+    file_path = sys.argv[1]
+    method = sys.argv[2]
+    args = sys.argv[3:]
+
+    for arg in args:
+        key_value = arg[2:].split('=', 1)
+        if not arg.startswith('--') or len(key_value) != 2:
+            raise Exception("Wrong usage!")
+        key, value = key_value
+        parameters[key] = value
+
+    return file_path, method, parameters
+
+
+def call(methodName: str, parameters: dict) -> dict:
     query = methodName
 
-    params["apiKey"] = credentials["KEY"]
-    params["time"] = int(round(datetime.now().timestamp()))
+    parameters["apiKey"] = credentials["KEY"]
+    parameters["time"] = int(round(datetime.now().timestamp()))
 
     sep = "?"
-    for name, value in sorted(params.items()):
+    for name, value in sorted(parameters.items()):
         query += sep + name + "=" + str(value)
         sep = "&"
 
@@ -34,5 +51,12 @@ def call(methodName: str, params: dict) -> dict:
     return res["result"]
 
 
-oi = call("blogEntry.comments", {"blogEntryId": "130381"})
-print(oi)
+def main():
+    result_path, method_name, parameters = parse_arguments()
+    data = call(method_name, parameters)
+    with open(result_path, 'w') as file:
+        json.dump(data, file, indent=4)
+
+
+if __name__ == "__main__":
+    main()
