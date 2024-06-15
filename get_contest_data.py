@@ -46,7 +46,7 @@ def getContestUsers(id: str) -> int:
         contest_ratings = call("contest.ratingChanges", {"contestId": id})
     except Exception as e:
         if str(e) == "FAILED: Call limit exceeded":
-            sleep(3 * random())
+            sleep(5 * random())
             return getContestUsers(id)
         return 0
 
@@ -69,7 +69,7 @@ def getContestStandings(id: str) -> int:
         contest_standings = call("contest.standings", {"contestId": id})
     except Exception as e:
         if str(e) == "FAILED: Call limit exceeded":
-            sleep(3 * random())
+            sleep(5 * random())
             return getContestStandings(id)
         return 0
 
@@ -86,7 +86,7 @@ def getContestStatus(id: str) -> int:
         contest_status = call("contest.status", {"contestId": id})
     except Exception as e:
         if str(e) == "FAILED: Call limit exceeded":
-            sleep(3 * random())
+            sleep(5 * random())
             return getContestStatus(id)
         return 0
 
@@ -96,9 +96,8 @@ def getContestStatus(id: str) -> int:
 
 
 def main():
-    max_workers = 4
+    max_workers = 30
     ids = getContests()
-    ids=ids[:30]
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
         result = list(tqdm(executor.map(getContestUsers, ids), total=len(ids)))
     print(f"Downloaded users and ratings for {sum(result)} / {len(result)} contests")
