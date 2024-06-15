@@ -33,8 +33,10 @@ def status_path(id: str) -> str:
 def getContests() -> list:
     contest_list = call("contest.list", {"gym": "false"})
     for contest in contest_list:
-        with open(contest_path(contest["id"]), 'w') as file:
-            json.dump(contest, file, indent=4)
+        id = contest["id"]
+        if not exists(contest_path(id)):
+            with open(contest_path(id), 'w') as file:
+                json.dump(contest, file, indent=4)
     return [contest["id"] for contest in contest_list]
 
 
@@ -96,7 +98,7 @@ def getContestStatus(id: str) -> int:
 
 
 def main():
-    max_workers = 30
+    max_workers = 4
     ids = getContests()
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
         result = list(tqdm(executor.map(getContestUsers, ids), total=len(ids)))
