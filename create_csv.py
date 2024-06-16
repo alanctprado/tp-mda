@@ -1,7 +1,6 @@
 from collections import defaultdict
 import csv
 import json
-import pandas as pd
 import os
 import consts.fields as fields
 
