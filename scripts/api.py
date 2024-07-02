@@ -1,6 +1,7 @@
 from datetime import datetime
 import hashlib
 import json
+from os import environ
 import random
 import requests
 import sys
@@ -8,7 +9,7 @@ from typing import Tuple
 
 
 API = "https://codeforces.com/api"
-with open("credentials.json") as f:
+with open(environ["MDABASEDIR"]+"credentials.json") as f:
     credentials = json.load(f)
 
 
