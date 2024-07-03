@@ -1,0 +1,953 @@
+[
+    {
+        "contestId": 1985,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265381846,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265375867,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 265372469,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 265370885,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1979,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation"
+        ],
+        "id": 264482504,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1980,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "sortings",
+            "sortings"
+        ],
+        "id": 263942712,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1980,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 263909633,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1974,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 261896940,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 260420988,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1971,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 260397779,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 260352054,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1971,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 260343231,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "id": 260329663,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1951,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "data structures",
+            "greedy"
+        ],
+        "id": 255318075,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1951,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "data structures",
+            "greedy"
+        ],
+        "id": 255309331,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1951,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "data structures",
+            "greedy"
+        ],
+        "id": 255301047,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1951,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 255292556,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1951,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 255285297,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1950,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 253793171,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1950,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 253791308,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1950,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 253783125,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1950,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 253770621,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1920,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 241473705,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1920,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 241472508,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1920,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 241471253,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1920,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 241467633,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1919,
+        "index": "B",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy"
+        ],
+        "id": 240575257,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1919,
+        "index": "B",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy"
+        ],
+        "id": 240574621,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1919,
+        "index": "A",
+        "points": 250.0,
+        "rating": 800,
+        "tags": [
+            "games",
+            "math"
+        ],
+        "id": 240513091,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1463,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "math"
+        ],
+        "id": 166631372,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159698157,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159697720,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159697679,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159696151,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159695948,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 492,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 159688929,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 492,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 159687822,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 230,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 159686806,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 230,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 159681597,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 230,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 159681525,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 230,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 159681277,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 230,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 159681217,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159680570,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159680024,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159679485,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159679016,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159678936,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159678778,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159678543,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 159678284,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1463,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "math"
+        ],
+        "id": 157523842,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1463,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "math"
+        ],
+        "id": 157504759,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1138,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "binary search",
+            "greedy",
+            "implementation"
+        ],
+        "id": 157486204,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 750,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 157471352,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 750,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 157471191,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1366,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math"
+        ],
+        "id": 157467084,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1366,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math"
+        ],
+        "id": 157465488,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 10,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 143852599,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 11,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 143818695,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 11,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 143818498,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 11,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 143818311,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 11,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 143818225,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 11,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 143817571,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 11,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 143817224,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 11,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 143572818,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 11,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 143571467,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 11,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 143571174,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 11,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 143570941,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 11,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 143570409,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 40,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "geometry",
+            "implementation",
+            "math"
+        ],
+        "id": 138642989,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 40,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "geometry",
+            "implementation",
+            "math"
+        ],
+        "id": 138642901,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 40,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "geometry",
+            "implementation",
+            "math"
+        ],
+        "id": 138641979,
+        "programmingLanguage": "MS C++ 2017",
+        "verdict": "WRONG_ANSWER"
+    }
+]

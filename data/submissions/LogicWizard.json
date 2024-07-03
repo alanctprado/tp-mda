@@ -1,0 +1,697 @@
+[
+    {
+        "contestId": 1989,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "greedy",
+            "strings"
+        ],
+        "id": 267757796,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1989,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 267718332,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1989,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 267716019,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1982,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 267499711,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1982,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 267356109,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1986,
+        "index": "D",
+        "rating": 1400,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "implementation",
+            "math",
+            "two pointers"
+        ],
+        "id": 267293502,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1986,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "greedy",
+            "sortings"
+        ],
+        "id": 267251898,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1986,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "data structures",
+            "greedy",
+            "sortings"
+        ],
+        "id": 267119928,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1986,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "geometry",
+            "math",
+            "sortings"
+        ],
+        "id": 267001735,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1978,
+        "index": "B",
+        "points": 750.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "ternary search"
+        ],
+        "id": 266036027,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1978,
+        "index": "B",
+        "points": 750.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "ternary search"
+        ],
+        "id": 266017067,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1978,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+        ],
+        "id": 265994231,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "E",
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "combinatorics",
+            "math"
+        ],
+        "id": 265939133,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1985,
+        "index": "E",
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "combinatorics",
+            "math"
+        ],
+        "id": 265939103,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265936624,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265936456,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265936417,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1985,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265829302,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265829189,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1985,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265829127,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1985,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265829021,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265828935,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1985,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265826532,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265825919,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1985,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 265303972,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 265270493,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265073963,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265072723,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265071782,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265070644,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265070524,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265069659,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265067594,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265063658,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265063514,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265062030,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265061834,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1984,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 264957998,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1974,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 264752332,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1974,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 264692622,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1974,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 264653550,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1979,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation"
+        ],
+        "id": 264479867,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1980,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 263965189,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1974,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 263649615,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1974,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 263649115,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1974,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 263530778,
+        "programmingLanguage": "Python 3",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1974,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 263530529,
+        "programmingLanguage": "Python 3",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1974,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 262903113,
+        "programmingLanguage": "Python 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1901,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 235181092,
+        "programmingLanguage": "GNU C11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1899,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "games",
+            "math",
+            "number theory"
+        ],
+        "id": 235009662,
+        "programmingLanguage": "GNU C11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1899,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "games",
+            "math",
+            "number theory"
+        ],
+        "id": 235009588,
+        "programmingLanguage": "GNU C11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1899,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "games",
+            "math",
+            "number theory"
+        ],
+        "id": 234995670,
+        "programmingLanguage": "GNU C11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1899,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "games",
+            "math",
+            "number theory"
+        ],
+        "id": 234995540,
+        "programmingLanguage": "GNU C11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1899,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "games",
+            "math",
+            "number theory"
+        ],
+        "id": 234995374,
+        "programmingLanguage": "GNU C11",
+        "verdict": "WRONG_ANSWER"
+    }
+]

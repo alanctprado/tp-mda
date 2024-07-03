@@ -1,0 +1,936 @@
+[
+    {
+        "contestId": 1976,
+        "index": "C",
+        "rating": 1600,
+        "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "implementation",
+            "two pointers"
+        ],
+        "id": 263357557,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1976,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 263328020,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1976,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 263324021,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1976,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 263322806,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1976,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 263307674,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 259202560,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 259193975,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 259186885,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "two pointers"
+        ],
+        "id": 259169556,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 259145896,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1941,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "dp",
+            "greedy",
+            "strings"
+        ],
+        "id": 250749705,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1941,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "dp",
+            "greedy",
+            "strings"
+        ],
+        "id": 250730539,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1941,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "dp",
+            "greedy",
+            "strings"
+        ],
+        "id": 250711962,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1941,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 250701004,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1941,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 250694433,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1941,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 250668438,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1935,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "strings"
+        ],
+        "id": 249783701,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1935,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "strings"
+        ],
+        "id": 249782167,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1937,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 248947536,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1937,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 248946143,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1937,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 248908336,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1933,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 248571200,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1933,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 248510823,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1926,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "geometry",
+            "implementation"
+        ],
+        "id": 247264855,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1926,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 247236646,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1932,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "brute force",
+            "data structures",
+            "implementation",
+            "math",
+            "two pointers"
+        ],
+        "id": 247050240,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1932,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "brute force",
+            "data structures",
+            "implementation",
+            "math",
+            "two pointers"
+        ],
+        "id": 247046897,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1932,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "number theory"
+        ],
+        "id": 247033375,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "CHALLENGED"
+    },
+    {
+        "contestId": 1932,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 247003780,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1932,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 247002512,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1932,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 246998806,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1929,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 246525091,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1929,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 246506443,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1931,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 246179502,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1931,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy"
+        ],
+        "id": 246154921,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1931,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "strings"
+        ],
+        "id": 246136474,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1927,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "dp",
+            "dsu",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 245225867,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1927,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "dp",
+            "dsu",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 245223705,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1927,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "dp",
+            "dsu",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 245200657,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1927,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 245177456,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1927,
+        "index": "B",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "strings"
+        ],
+        "id": 245122936,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1927,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "strings"
+        ],
+        "id": 245093578,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1918,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 244128628,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1918,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 244128025,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1918,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 244115755,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1918,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 244114458,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1918,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 244089719,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1925,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 243647265,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 243643626,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1925,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1500,
+        "tags": [
+            "constructive algorithms",
+            "dp",
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 243631028,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1500,
+        "tags": [
+            "constructive algorithms",
+            "dp",
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 243617254,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "strings"
+        ],
+        "id": 243572120,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1922,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 242317477,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1922,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 242313545,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1922,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 242283706,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242265215,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1922,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "strings"
+        ],
+        "id": 242240899,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1922,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "strings"
+        ],
+        "id": 242236593,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1921,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 241812039,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1921,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 241807555,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1921,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 241786640,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1921,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 241781788,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1921,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 241754269,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1921,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 241735430,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1921,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 241725752,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1920,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "games",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 241480487,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1920,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "games",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 241476295,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1920,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 241437590,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1920,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 241436962,
+        "programmingLanguage": "GNU C11",
+        "verdict": "COMPILATION_ERROR"
+    }
+]
