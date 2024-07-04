@@ -1,0 +1,5759 @@
+[
+    {
+        "contestId": 1980,
+        "index": "D",
+        "rating": 1400,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 263971564,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1980,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 263969403,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1980,
+        "index": "D",
+        "rating": 1400,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 263961399,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1980,
+        "index": "D",
+        "rating": 1400,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 263959786,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1980,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "sortings",
+            "sortings"
+        ],
+        "id": 263947979,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1980,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 263897958,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1974,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 261820116,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "E",
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "math",
+            "sortings"
+        ],
+        "id": 260365813,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 260323027,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 260299159,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 260284286,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "id": 260270666,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1498,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "bitmasks",
+            "data structures",
+            "greedy"
+        ],
+        "id": 260200995,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1498,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "bitmasks",
+            "data structures",
+            "greedy"
+        ],
+        "id": 260196277,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1498,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "bitmasks",
+            "data structures",
+            "greedy"
+        ],
+        "id": 260194589,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1470,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 260153285,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1470,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 260147123,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1794,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "two pointers"
+        ],
+        "id": 260035853,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1794,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "two pointers"
+        ],
+        "id": 260035226,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1881,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "id": 259942016,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1915,
+        "index": "E",
+        "rating": 1300,
+        "tags": [
+            "data structures",
+            "greedy",
+            "math"
+        ],
+        "id": 259940493,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1927,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "dp",
+            "dsu",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 259917356,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1931,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "combinatorics",
+            "math",
+            "number theory"
+        ],
+        "id": 259889597,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 259370206,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 259369414,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "two pointers"
+        ],
+        "id": 259366416,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 259364504,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 96,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "bitmasks",
+            "brute force"
+        ],
+        "id": 259033162,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1371,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 259019330,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1371,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 259018989,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1371,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 259018343,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1203,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 258151018,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1203,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 258150926,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1879,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "combinatorics",
+            "dp",
+            "greedy"
+        ],
+        "id": 258148633,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1454,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 258127718,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1607,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 257863760,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1693,
+        "index": "A",
+        "points": 750.0,
+        "rating": 1300,
+        "tags": [
+            "greedy"
+        ],
+        "id": 257844115,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1693,
+        "index": "A",
+        "points": 750.0,
+        "rating": 1300,
+        "tags": [
+            "greedy"
+        ],
+        "id": 257843329,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1693,
+        "index": "A",
+        "points": 750.0,
+        "rating": 1300,
+        "tags": [
+            "greedy"
+        ],
+        "id": 257843187,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1693,
+        "index": "A",
+        "points": 750.0,
+        "rating": 1300,
+        "tags": [
+            "greedy"
+        ],
+        "id": 257843109,
+        "programmingLanguage": "Java 8",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1617,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 257838867,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1617,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 257825685,
+        "programmingLanguage": "Java 21",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1873,
+        "index": "F",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "two pointers"
+        ],
+        "id": 257806382,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1612,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "math"
+        ],
+        "id": 257745183,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1786,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "sortings"
+        ],
+        "id": 257739111,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1352,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "implementation"
+        ],
+        "id": 257726343,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 600,
+        "index": "B",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "data structures",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 257698585,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 600,
+        "index": "B",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "data structures",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 257698520,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 600,
+        "index": "B",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "data structures",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 257698363,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 600,
+        "index": "B",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "data structures",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 257698184,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 450,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 257683536,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1328,
+        "index": "B",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "brute force",
+            "combinatorics",
+            "implementation",
+            "math"
+        ],
+        "id": 257682559,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1401,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "math",
+            "number theory",
+            "sortings"
+        ],
+        "id": 257430768,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1372,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 256080321,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1372,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 256079551,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1372,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 256078842,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1372,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 256078641,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1372,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 256078214,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1372,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 256077787,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1521,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 256075436,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1618,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 256068790,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1955,
+        "index": "D",
+        "rating": 1400,
+        "tags": [
+            "data structures",
+            "two pointers"
+        ],
+        "id": 255828344,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1555,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "dp",
+            "implementation"
+        ],
+        "id": 255819994,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1955,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "implementation",
+            "sortings"
+        ],
+        "id": 255787979,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1955,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "implementation",
+            "sortings"
+        ],
+        "id": 255744176,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1955,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 255721379,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1955,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 255714206,
+        "programmingLanguage": "Java 21",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1955,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "implementation",
+            "sortings"
+        ],
+        "id": 255670105,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1955,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 255640000,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 476,
+        "index": "B",
+        "points": 1500.0,
+        "rating": 1300,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "combinatorics",
+            "dp",
+            "math",
+            "probabilities"
+        ],
+        "id": 255617251,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1661,
+        "index": "B",
+        "rating": 1300,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "greedy",
+            "shortest paths"
+        ],
+        "id": 255568401,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1660,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "dp",
+            "greedy",
+            "strings"
+        ],
+        "id": 255501213,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1862,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "combinatorics",
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 255494298,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 276,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "games",
+            "greedy"
+        ],
+        "id": 255485956,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1365,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "implementation"
+        ],
+        "id": 255414434,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1816,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1300,
+        "tags": [
+            "math",
+            "sortings"
+        ],
+        "id": 255102549,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1816,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1300,
+        "tags": [
+            "math",
+            "sortings"
+        ],
+        "id": 255102220,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1846,
+        "index": "E1",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 254858925,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 478,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 254792840,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 478,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 254792733,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1844,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1300,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 254752404,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1741,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "dfs and similar",
+            "divide and conquer",
+            "graphs",
+            "sortings",
+            "trees"
+        ],
+        "id": 254655441,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1737,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math"
+        ],
+        "id": 254618571,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1737,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math"
+        ],
+        "id": 254549334,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1737,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math"
+        ],
+        "id": 254547432,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1676,
+        "index": "F",
+        "rating": 1300,
+        "tags": [
+            "data structures",
+            "greedy",
+            "implementation",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 254457464,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 459,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "combinatorics",
+            "implementation",
+            "sortings"
+        ],
+        "id": 254378643,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 459,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "combinatorics",
+            "implementation",
+            "sortings"
+        ],
+        "id": 254378433,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 459,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "combinatorics",
+            "implementation",
+            "sortings"
+        ],
+        "id": 254378352,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 459,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "combinatorics",
+            "implementation",
+            "sortings"
+        ],
+        "id": 254378282,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1360,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "id": 254375512,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1538,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "data structures",
+            "math",
+            "two pointers"
+        ],
+        "id": 254301820,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1538,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "data structures",
+            "math",
+            "two pointers"
+        ],
+        "id": 254301436,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1294,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 254282990,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1766,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "dp",
+            "implementation"
+        ],
+        "id": 254281541,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1736,
+        "index": "C1",
+        "points": 1250.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "data structures",
+            "schedules",
+            "two pointers"
+        ],
+        "id": 254199195,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1829,
+        "index": "F",
+        "rating": 1300,
+        "tags": [
+            "dfs and similar",
+            "graphs",
+            "math"
+        ],
+        "id": 254110383,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1810,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "greedy",
+            "sortings"
+        ],
+        "id": 254099702,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "F",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 254040066,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1717,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1300,
+        "tags": [
+            "greedy"
+        ],
+        "id": 254027961,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1717,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1300,
+        "tags": [
+            "greedy"
+        ],
+        "id": 254027700,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1717,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1300,
+        "tags": [
+            "greedy"
+        ],
+        "id": 254027352,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1788,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 253948998,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1821,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "strings"
+        ],
+        "id": 253913100,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1698,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "data structures"
+        ],
+        "id": 253115385,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1698,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "data structures"
+        ],
+        "id": 253115203,
+        "programmingLanguage": "Java 21",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 25,
+        "index": "A",
+        "rating": 1300,
+        "tags": [
+            "brute force"
+        ],
+        "id": 252971589,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 451,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "id": 252969633,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1703,
+        "index": "F",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "data structures",
+            "dp",
+            "greedy",
+            "sortings"
+        ],
+        "id": 252966535,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1733,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "sortings"
+        ],
+        "id": 252870743,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 4,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "data structures",
+            "hashing",
+            "implementation"
+        ],
+        "id": 252865539,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 189,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "dp"
+        ],
+        "id": 252819892,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1946,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 252782139,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1946,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 252747334,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1692,
+        "index": "F",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 252728962,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 230,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 252726327,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 230,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 252726202,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 230,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 252725801,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 474,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "implementation"
+        ],
+        "id": 252704851,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1730,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 252684544,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1355,
+        "index": "A",
+        "points": 750.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 252624332,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1679,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "implementation"
+        ],
+        "id": 252622361,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1352,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 252590796,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 433,
+        "index": "B",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "dp",
+            "implementation",
+            "sortings"
+        ],
+        "id": 252586576,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 433,
+        "index": "B",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "dp",
+            "implementation",
+            "sortings"
+        ],
+        "id": 252542240,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 433,
+        "index": "B",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "dp",
+            "implementation",
+            "sortings"
+        ],
+        "id": 252541997,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 433,
+        "index": "B",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "dp",
+            "implementation",
+            "sortings"
+        ],
+        "id": 252541912,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 433,
+        "index": "B",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "dp",
+            "implementation",
+            "sortings"
+        ],
+        "id": 252541867,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 433,
+        "index": "B",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "dp",
+            "implementation",
+            "sortings"
+        ],
+        "id": 252541750,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 433,
+        "index": "B",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "dp",
+            "implementation",
+            "sortings"
+        ],
+        "id": 252541565,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 433,
+        "index": "B",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "dp",
+            "implementation",
+            "sortings"
+        ],
+        "id": 252541481,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1826,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 252529789,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1363,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 252494976,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1363,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 252494633,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1694,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 252492885,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1694,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 252492782,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 489,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "dfs and similar",
+            "dp",
+            "graph matchings",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 252490828,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1720,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 252485229,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1790,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "greedy",
+            "sortings"
+        ],
+        "id": 252395106,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1790,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "greedy",
+            "sortings"
+        ],
+        "id": 252392304,
+        "programmingLanguage": "Java 21",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1790,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "greedy",
+            "sortings"
+        ],
+        "id": 252392278,
+        "programmingLanguage": "Java 8",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1790,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "greedy",
+            "sortings"
+        ],
+        "id": 252392102,
+        "programmingLanguage": "Java 8",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1832,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 252320746,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1729,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 252311261,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1793,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "two pointers"
+        ],
+        "id": 252028717,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1692,
+        "index": "E",
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "implementation",
+            "two pointers"
+        ],
+        "id": 252026664,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 466,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "implementation"
+        ],
+        "id": 252024421,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1734,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 251991624,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1734,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 251991320,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1734,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 251990944,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1736,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "id": 251896217,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1800,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "greedy",
+            "hashing",
+            "strings"
+        ],
+        "id": 251696409,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1948,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "constructive algorithms"
+        ],
+        "id": 251567542,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 492,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 251346102,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1352,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "math"
+        ],
+        "id": 251330296,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 251262146,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1520,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "hashing",
+            "math"
+        ],
+        "id": 251258648,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1808,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "math",
+            "sortings"
+        ],
+        "id": 251241725,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 977,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "sortings"
+        ],
+        "id": 251189256,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 977,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "sortings"
+        ],
+        "id": 251188514,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1537,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 251127483,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1541,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 251103233,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1541,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 251097174,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1853,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "brute force",
+            "math"
+        ],
+        "id": 251036996,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1857,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 251032796,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1857,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 251032733,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1497,
+        "index": "C1",
+        "points": 750.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 251010975,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1656,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "math",
+            "number theory",
+            "sortings"
+        ],
+        "id": 251009139,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1669,
+        "index": "E",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "math",
+            "strings"
+        ],
+        "id": 250998374,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1613,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "binary search"
+        ],
+        "id": 250995639,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1598,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "dp",
+            "implementation",
+            "math",
+            "two pointers"
+        ],
+        "id": 250949480,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1598,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "data structures",
+            "dp",
+            "implementation",
+            "math",
+            "two pointers"
+        ],
+        "id": 250946691,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1364,
+        "index": "A",
+        "points": 750.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "data structures",
+            "number theory",
+            "two pointers"
+        ],
+        "id": 250895415,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1472,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "dp",
+            "games",
+            "greedy",
+            "sortings"
+        ],
+        "id": 250878755,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1941,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 250729518,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1941,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "dp",
+            "greedy",
+            "strings"
+        ],
+        "id": 250701764,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1941,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 250656030,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1354,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "dp",
+            "implementation",
+            "two pointers"
+        ],
+        "id": 250631426,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1859,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 250596897,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 459,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "implementation"
+        ],
+        "id": 250516637,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 459,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "implementation"
+        ],
+        "id": 250516141,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 459,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "implementation"
+        ],
+        "id": 250515277,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1592,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "dsu",
+            "math",
+            "sortings"
+        ],
+        "id": 250368162,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1592,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "dsu",
+            "math",
+            "sortings"
+        ],
+        "id": 250367852,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1592,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "dsu",
+            "math",
+            "sortings"
+        ],
+        "id": 250365638,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1553,
+        "index": "C",
+        "points": 750.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "dp",
+            "greedy"
+        ],
+        "id": 250318007,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1539,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 250296615,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1860,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 250258897,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1860,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 250117516,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1671,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 250107095,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1328,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 250033623,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 327,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "dp",
+            "implementation"
+        ],
+        "id": 249992006,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 327,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "dp",
+            "implementation"
+        ],
+        "id": 249990886,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 327,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "dp",
+            "implementation"
+        ],
+        "id": 249990139,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1399,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 249981289,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1872,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "math"
+        ],
+        "id": 249947439,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1385,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "greedy"
+        ],
+        "id": 249918007,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1385,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "greedy"
+        ],
+        "id": 249917732,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 285,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 249914082,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 285,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 249913889,
+        "programmingLanguage": "Java 8",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 285,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 249913421,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1339,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "sortings"
+        ],
+        "id": 249911073,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 4,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 249905323,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1935,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "strings"
+        ],
+        "id": 249776566,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1935,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "strings"
+        ],
+        "id": 249758617,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1637,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 249724909,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1637,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 249723908,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 27,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "id": 249685644,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1635,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 249679689,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1355,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1200,
+        "tags": [
+            "dp",
+            "greedy",
+            "sortings"
+        ],
+        "id": 249661652,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1455,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 249659651,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 327,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "math"
+        ],
+        "id": 249648055,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 327,
+        "index": "B",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "math"
+        ],
+        "id": 249647911,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1272,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "dp",
+            "implementation"
+        ],
+        "id": 249645841,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1272,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "dp",
+            "implementation"
+        ],
+        "id": 249645098,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1406,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 249610476,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1406,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 249609516,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1221,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "math"
+        ],
+        "id": 249602303,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1133,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "sortings",
+            "two pointers"
+        ],
+        "id": 249594908,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 239,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 249549922,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1369,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 249544693,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1369,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 249544570,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1369,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 249544442,
+        "programmingLanguage": "Java 21",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1454,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 249539417,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1742,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "greedy",
+            "number theory"
+        ],
+        "id": 249518797,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1739,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 249516172,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1788,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "math",
+            "probabilities"
+        ],
+        "id": 249470100,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1743,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "dp",
+            "greedy"
+        ],
+        "id": 249458854,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1783,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 249406744,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1783,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 249403085,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1700,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 248952369,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1933,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 248602143,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1933,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math",
+            "number theory",
+            "sortings"
+        ],
+        "id": 248592867,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1933,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 248502443,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1933,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 248501128,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1923,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 247961473,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1923,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 247960128,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1923,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 247958021,
+        "programmingLanguage": "Java 21",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1923,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 247936919,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1923,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 247901772,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1811,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 247887831,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1811,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 247887671,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1811,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 247887337,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1826,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "id": 247837445,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1840,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "bitmasks",
+            "combinatorics",
+            "math"
+        ],
+        "id": 247831019,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1669,
+        "index": "F",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "data structures",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 247829349,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1692,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "implementation"
+        ],
+        "id": 247826989,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 368,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "dp"
+        ],
+        "id": 247782575,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1820,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "math",
+            "strings",
+            "two pointers"
+        ],
+        "id": 247746283,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1820,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "math",
+            "strings",
+            "two pointers"
+        ],
+        "id": 247746166,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1820,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "math",
+            "strings",
+            "two pointers"
+        ],
+        "id": 247745434,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1829,
+        "index": "E",
+        "rating": 1100,
+        "tags": [
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "implementation"
+        ],
+        "id": 247699785,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1829,
+        "index": "E",
+        "rating": 1100,
+        "tags": [
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "implementation"
+        ],
+        "id": 247699449,
+        "programmingLanguage": "Java 21",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1797,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 247696948,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1797,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 247696823,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1618,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "math"
+        ],
+        "id": 247659683,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1862,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "data structures",
+            "implementation",
+            "sortings"
+        ],
+        "id": 247634611,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1862,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "data structures",
+            "implementation",
+            "sortings"
+        ],
+        "id": 247632155,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1626,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "strings"
+        ],
+        "id": 247599183,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 463,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 247561743,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1675,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "implementation"
+        ],
+        "id": 247468560,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1675,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "implementation"
+        ],
+        "id": 247468482,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1593,
+        "index": "D1",
+        "rating": 1100,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "id": 247428538,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1593,
+        "index": "D1",
+        "rating": 1100,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "id": 247428232,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1593,
+        "index": "D1",
+        "rating": 1100,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "id": 247375887,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1511,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 247169679,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 287,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "implementation"
+        ],
+        "id": 247159012,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1872,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "id": 247145159,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1932,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "number theory"
+        ],
+        "id": 247086258,
+        "programmingLanguage": "Java 21",
+        "verdict": "CHALLENGED"
+    },
+    {
+        "contestId": 1932,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "number theory"
+        ],
+        "id": 247086060,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1932,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "number theory"
+        ],
+        "id": 247025184,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1932,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "number theory"
+        ],
+        "id": 247020685,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1932,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 247008359,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1932,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 247001688,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1324,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "data structures",
+            "dfs and similar",
+            "greedy",
+            "implementation"
+        ],
+        "id": 246987866,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1638,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "math",
+            "sortings"
+        ],
+        "id": 246911505,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1638,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "math",
+            "sortings"
+        ],
+        "id": 246908352,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1638,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "math",
+            "sortings"
+        ],
+        "id": 246908193,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1638,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "math",
+            "sortings"
+        ],
+        "id": 246908156,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1685,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+        ],
+        "id": 246815187,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1685,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+        ],
+        "id": 246814834,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1685,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+        ],
+        "id": 246814604,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1685,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+        ],
+        "id": 246809282,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1685,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+        ],
+        "id": 246808816,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1685,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+        ],
+        "id": 246808630,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1685,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+        ],
+        "id": 246807558,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1685,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+        ],
+        "id": 246806868,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1685,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+        ],
+        "id": 246806611,
+        "programmingLanguage": "Java 21",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 630,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "combinatorics",
+            "math"
+        ],
+        "id": 246763855,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 66,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "implementation"
+        ],
+        "id": 246762162,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 483,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 246757070,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 82,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 246754252,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1616,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "strings"
+        ],
+        "id": 246735127,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1864,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "strings"
+        ],
+        "id": 246733243,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1633,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 246731268,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1633,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 246731136,
+        "programmingLanguage": "Java 21",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1656,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "greedy",
+            "math",
+            "two pointers"
+        ],
+        "id": 246727149,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1873,
+        "index": "E",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "sortings"
+        ],
+        "id": 246725040,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1672,
+        "index": "C",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation"
+        ],
+        "id": 246721701,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1929,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 246525098,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1929,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 246492357,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 300,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "implementation"
+        ],
+        "id": 246483777,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 300,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "implementation"
+        ],
+        "id": 246483382,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1914,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 245748877,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1917,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "combinatorics",
+            "data structures",
+            "dp",
+            "strings"
+        ],
+        "id": 245721167,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1832,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 245674670,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 296,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 245531912,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1626,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "strings"
+        ],
+        "id": 245527504,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 258,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 245516647,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1791,
+        "index": "E",
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "greedy",
+            "sortings"
+        ],
+        "id": 245512225,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1213,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "implementation"
+        ],
+        "id": 245506399,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 478,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "implementation"
+        ],
+        "id": 245478847,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 478,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "implementation"
+        ],
+        "id": 245477606,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1472,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "graphs"
+        ],
+        "id": 245475496,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1759,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "math",
+            "shortest paths"
+        ],
+        "id": 245387282,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 224,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "geometry",
+            "math"
+        ],
+        "id": 244848796,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 919,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "brute force",
+            "dp",
+            "implementation",
+            "number theory"
+        ],
+        "id": 244827658,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1360,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "graph matchings",
+            "greedy",
+            "sortings"
+        ],
+        "id": 244826048,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 368,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "dp"
+        ],
+        "id": 244603964,
+        "programmingLanguage": "Java 21",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1334,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 244601747,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1490,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "brute force",
+            "brute force",
+            "math"
+        ],
+        "id": 244469931,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1366,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math"
+        ],
+        "id": 244468572,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1409,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 244454974,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 349,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 244416422,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1335,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 244412184,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1327,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "math"
+        ],
+        "id": 244406079,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1327,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "math"
+        ],
+        "id": 244405691,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1327,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "math"
+        ],
+        "id": 244404715,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1327,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "math"
+        ],
+        "id": 244404544,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1327,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "math"
+        ],
+        "id": 244403638,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 519,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "sortings"
+        ],
+        "id": 244401997,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 270,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "geometry",
+            "implementation",
+            "math"
+        ],
+        "id": 244319131,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 706,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "dp",
+            "implementation"
+        ],
+        "id": 244317511,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 456,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "sortings"
+        ],
+        "id": 244312276,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 456,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "sortings"
+        ],
+        "id": 244311866,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 456,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "sortings"
+        ],
+        "id": 244310873,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 456,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "sortings"
+        ],
+        "id": 244310593,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 158,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "*special",
+            "greedy",
+            "implementation"
+        ],
+        "id": 244175291,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 158,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "*special",
+            "greedy",
+            "implementation"
+        ],
+        "id": 244174619,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 158,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "*special",
+            "greedy",
+            "implementation"
+        ],
+        "id": 244174487,
+        "programmingLanguage": "Java 21",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 158,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "*special",
+            "greedy",
+            "implementation"
+        ],
+        "id": 244174191,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 158,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "*special",
+            "greedy",
+            "implementation"
+        ],
+        "id": 244173878,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 158,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "*special",
+            "greedy",
+            "implementation"
+        ],
+        "id": 244173733,
+        "programmingLanguage": "Java 21",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 158,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "*special",
+            "greedy",
+            "implementation"
+        ],
+        "id": 244148065,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 158,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "*special",
+            "greedy",
+            "implementation"
+        ],
+        "id": 244145752,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1881,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "strings"
+        ],
+        "id": 244103877,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1881,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "strings"
+        ],
+        "id": 244067112,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1881,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "strings"
+        ],
+        "id": 244066992,
+        "programmingLanguage": "Java 21",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1890,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 244062592,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1896,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "sortings"
+        ],
+        "id": 244060976,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1896,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "sortings"
+        ],
+        "id": 244060816,
+        "programmingLanguage": "Java 21",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1899,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "games",
+            "math",
+            "number theory"
+        ],
+        "id": 244058164,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1900,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 243321222,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1901,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 243318833,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1903,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "sortings"
+        ],
+        "id": 243046353,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1913,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "strings"
+        ],
+        "id": 243042823,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1237,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 242910708,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1133,
+        "index": "A",
+        "rating": 1000,
+        "tags": [
+            "implementation"
+        ],
+        "id": 242887608,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1278,
+        "index": "A",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "implementation",
+            "strings"
+        ],
+        "id": 242886055,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1278,
+        "index": "A",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "implementation",
+            "strings"
+        ],
+        "id": 242885435,
+        "programmingLanguage": "Java 21",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1027,
+        "index": "A",
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 242882430,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 109,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "implementation"
+        ],
+        "id": 242744380,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1073,
+        "index": "A",
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 242743039,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1199,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation"
+        ],
+        "id": 242742135,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1139,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1000,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 242639016,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 131,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 242599510,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 500,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "dfs and similar",
+            "graphs",
+            "implementation"
+        ],
+        "id": 242586477,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 476,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 242582235,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 268,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 242485847,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1141,
+        "index": "A",
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 242484146,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 219,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 242482708,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 219,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 242482385,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 139,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation"
+        ],
+        "id": 242477475,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1430,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 242344071,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1300,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1000,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 242341130,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 118,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 242130664,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 118,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 242130489,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1095,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 242126835,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1303,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 242125155,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 702,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 242111144,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 702,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 242111075,
+        "programmingLanguage": "Java 21",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 702,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 242110085,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 492,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 242092446,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1097,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation"
+        ],
+        "id": 242090174,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1368,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 242072621,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1368,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 242071875,
+        "programmingLanguage": "GNU C11",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 339,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 241858921,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 281,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 241858671,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 236,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation",
+            "strings"
+        ],
+        "id": 241858554,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 791,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 241858132,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 546,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 241855326,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 546,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 241855013,
+        "programmingLanguage": "Java 17",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 977,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 241854563,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1921,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 241810907,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1921,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 241710662,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 110,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 241702618,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 136,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 241701442,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1030,
+        "index": "A",
+        "points": 250.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 241621284,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 144,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 241621176,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 785,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 241620649,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 510,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 241619828,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1352,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 241616524,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 723,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 241615124,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 151,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 241614398,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 151,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 241609716,
+        "programmingLanguage": "Java 17",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 263,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 241607809,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 514,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 241592648,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 514,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 241592206,
+        "programmingLanguage": "Java 17",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 514,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 241592053,
+        "programmingLanguage": "Java 17",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 282,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 241589762,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 282,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 241588950,
+        "programmingLanguage": "Java 17",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1837,
+        "index": "B",
+        "rating": 900,
+        "tags": [
+            "greedy"
+        ],
+        "id": 223233383,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1856,
+        "index": "B",
+        "points": 750.0,
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 223135280,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "id": 222682502,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "id": 222681128,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 222678780,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1851,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 222632981,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1853,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 222611156,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1855,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 222607332,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1857,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 222016602,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1845,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "strings"
+        ],
+        "id": 218168151,
+        "programmingLanguage": "Java 17",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1845,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "strings"
+        ],
+        "id": 218167928,
+        "programmingLanguage": "Java 17",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1845,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "strings"
+        ],
+        "id": 218167510,
+        "programmingLanguage": "Python 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 621,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 216868412,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 621,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 216868252,
+        "programmingLanguage": "Java 8",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 621,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 216868131,
+        "programmingLanguage": "Java 8",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 621,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 216867994,
+        "programmingLanguage": "Java 8",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 621,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 216867744,
+        "programmingLanguage": "Java 8",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1807,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 216718691,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1829,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 216717027,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1832,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "strings"
+        ],
+        "id": 216667584,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1843,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 216534973,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1473,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 216284023,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1005,
+        "index": "B",
+        "rating": 900,
+        "tags": [
+            "brute force",
+            "implementation",
+            "strings"
+        ],
+        "id": 216000374,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1725,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "binary search",
+            "greedy",
+            "sortings"
+        ],
+        "id": 213476872,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1370,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 212516888,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    }
+]
