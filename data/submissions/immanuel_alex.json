@@ -1,0 +1,57 @@
+[
+    {
+        "contestId": 1985,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 265328813,
+        "programmingLanguage": "Python 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 265323663,
+        "programmingLanguage": "Java 21",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1975,
+        "index": "A",
+        "points": 250.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 262591734,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1975,
+        "index": "A",
+        "points": 250.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 262591144,
+        "programmingLanguage": "GNU C11",
+        "verdict": "COMPILATION_ERROR"
+    }
+]

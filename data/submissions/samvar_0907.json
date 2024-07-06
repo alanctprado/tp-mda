@@ -1,0 +1,5036 @@
+[
+    {
+        "contestId": 1986,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "greedy",
+            "sortings"
+        ],
+        "id": 267049375,
+        "programmingLanguage": "Python 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1986,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "data structures",
+            "greedy",
+            "sortings"
+        ],
+        "id": 267024227,
+        "programmingLanguage": "Python 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1986,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "geometry",
+            "math",
+            "sortings"
+        ],
+        "id": 266965570,
+        "programmingLanguage": "Python 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1977,
+        "index": "C",
+        "points": 1750.0,
+        "rating": 1900,
+        "tags": [
+            "brute force",
+            "data structures",
+            "dp",
+            "greedy",
+            "math",
+            "number theory",
+            "sortings"
+        ],
+        "id": 266937627,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1977,
+        "index": "C",
+        "points": 1750.0,
+        "rating": 1900,
+        "tags": [
+            "brute force",
+            "data structures",
+            "dp",
+            "greedy",
+            "math",
+            "number theory",
+            "sortings"
+        ],
+        "id": 266937449,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1978,
+        "index": "D",
+        "points": 1500.0,
+        "rating": 1600,
+        "tags": [
+            "data structures",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 266929624,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1978,
+        "index": "D",
+        "points": 1500.0,
+        "rating": 1600,
+        "tags": [
+            "data structures",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 266929518,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1984,
+        "index": "E",
+        "points": 3000.0,
+        "rating": 2400,
+        "tags": [
+            "dp",
+            "greedy",
+            "trees"
+        ],
+        "id": 266053462,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1978,
+        "index": "D",
+        "points": 1500.0,
+        "rating": 1600,
+        "tags": [
+            "data structures",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 266046936,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1978,
+        "index": "F",
+        "points": 2500.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "number theory",
+            "two pointers"
+        ],
+        "id": 266036729,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1978,
+        "index": "B",
+        "points": 750.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "ternary search"
+        ],
+        "id": 265997031,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1978,
+        "index": "B",
+        "points": 750.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "ternary search"
+        ],
+        "id": 265995433,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1978,
+        "index": "B",
+        "points": 750.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "ternary search"
+        ],
+        "id": 265992244,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1978,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings"
+        ],
+        "id": 265985406,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1490,
+        "index": "F",
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "data structures",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 265487515,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1490,
+        "index": "F",
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "data structures",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 265485590,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1490,
+        "index": "F",
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "data structures",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 265484888,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1985,
+        "index": "H1",
+        "rating": 1700,
+        "tags": [
+            "brute force",
+            "data structures",
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "implementation"
+        ],
+        "id": 265370052,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1985,
+        "index": "H1",
+        "rating": 1700,
+        "tags": [
+            "brute force",
+            "data structures",
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "implementation"
+        ],
+        "id": 265366062,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1985,
+        "index": "E",
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "combinatorics",
+            "math"
+        ],
+        "id": 265329772,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265300026,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265272132,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 265231810,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 265215323,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1979,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "combinatorics",
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 265068129,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1979,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "combinatorics",
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 265068016,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1979,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "combinatorics",
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 265067868,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1979,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "combinatorics",
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 265067546,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1979,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "combinatorics",
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 265067246,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1979,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "combinatorics",
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 265066907,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1979,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1000,
+        "tags": [
+            "bitmasks",
+            "greedy"
+        ],
+        "id": 265063914,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1979,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation"
+        ],
+        "id": 265061712,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1948,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "shortest paths"
+        ],
+        "id": 264067722,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1948,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "shortest paths"
+        ],
+        "id": 264067561,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1891,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 264066795,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1891,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 264066740,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1891,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 264066717,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1891,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 264066470,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1891,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 264066393,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1444,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1500,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 264065956,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1444,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1500,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 264065935,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1980,
+        "index": "D",
+        "rating": 1400,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 264029999,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1980,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 264005050,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1980,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 264004031,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1980,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 264002665,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1980,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 263970207,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1980,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 263948000,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1980,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "sortings",
+            "sortings"
+        ],
+        "id": 263918969,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1980,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 263901843,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 260413841,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 260393159,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1971,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 260391068,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1971,
+        "index": "F",
+        "rating": 1600,
+        "tags": [
+            "binary search",
+            "brute force",
+            "dfs and similar",
+            "geometry",
+            "implementation",
+            "math"
+        ],
+        "id": 260371323,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1971,
+        "index": "F",
+        "rating": 1600,
+        "tags": [
+            "binary search",
+            "brute force",
+            "dfs and similar",
+            "geometry",
+            "implementation",
+            "math"
+        ],
+        "id": 260367626,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1971,
+        "index": "F",
+        "rating": 1600,
+        "tags": [
+            "binary search",
+            "brute force",
+            "dfs and similar",
+            "geometry",
+            "implementation",
+            "math"
+        ],
+        "id": 260365902,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1971,
+        "index": "F",
+        "rating": 1600,
+        "tags": [
+            "binary search",
+            "brute force",
+            "dfs and similar",
+            "geometry",
+            "implementation",
+            "math"
+        ],
+        "id": 260364514,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1971,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 260342555,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 260310509,
+        "programmingLanguage": "Python 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1971,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 260281656,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1971,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "id": 260264284,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1552,
+        "index": "A",
+        "points": 250.0,
+        "rating": 800,
+        "tags": [
+            "sortings",
+            "strings"
+        ],
+        "id": 259912735,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1552,
+        "index": "D",
+        "points": 1000.0,
+        "rating": 1800,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "math"
+        ],
+        "id": 259794129,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1552,
+        "index": "D",
+        "points": 1000.0,
+        "rating": 1800,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "math"
+        ],
+        "id": 259793985,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1552,
+        "index": "D",
+        "points": 1000.0,
+        "rating": 1800,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "math"
+        ],
+        "id": 259793905,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1552,
+        "index": "D",
+        "points": 1000.0,
+        "rating": 1800,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "math"
+        ],
+        "id": 259793823,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1552,
+        "index": "D",
+        "points": 1000.0,
+        "rating": 1800,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "math"
+        ],
+        "id": 259793456,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1552,
+        "index": "D",
+        "points": 1000.0,
+        "rating": 1800,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "math"
+        ],
+        "id": 259793334,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1552,
+        "index": "D",
+        "points": 1000.0,
+        "rating": 1800,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "math"
+        ],
+        "id": 259793247,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1552,
+        "index": "D",
+        "points": 1000.0,
+        "rating": 1800,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "math"
+        ],
+        "id": 259793168,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1933,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 259787557,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1933,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 259787529,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1933,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 259787252,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1933,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 259787133,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 643,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms",
+            "graphs"
+        ],
+        "id": 259663412,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 643,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms",
+            "graphs"
+        ],
+        "id": 259663367,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 643,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms",
+            "graphs"
+        ],
+        "id": 259662143,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 643,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms",
+            "graphs"
+        ],
+        "id": 259661353,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 643,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms",
+            "graphs"
+        ],
+        "id": 259660280,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 643,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms",
+            "graphs"
+        ],
+        "id": 259659759,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1712,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 259615683,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1712,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 259603376,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1712,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 259603187,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1712,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 259602902,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1712,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 259601869,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1712,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 259601802,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1712,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 259601109,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1744,
+        "index": "E1",
+        "rating": 1500,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 259550059,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1744,
+        "index": "E1",
+        "rating": 1500,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 259549974,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1744,
+        "index": "E1",
+        "rating": 1500,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 259545831,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1744,
+        "index": "E1",
+        "rating": 1500,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 259545676,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1288,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "brute force",
+            "math",
+            "ternary search"
+        ],
+        "id": 259541070,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1288,
+        "index": "A",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "brute force",
+            "math",
+            "ternary search"
+        ],
+        "id": 259539378,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1838,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 259536934,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1838,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 259536270,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1838,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 259536086,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1970,
+        "index": "A3",
+        "rating": 2400,
+        "tags": [
+            "constructive algorithms",
+            "trees"
+        ],
+        "id": 259497279,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "A2",
+        "rating": 2400,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "trees"
+        ],
+        "id": 259497251,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "B3",
+        "rating": 2300,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259496222,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "E3",
+        "rating": 2200,
+        "tags": [
+            "dp",
+            "matrices"
+        ],
+        "id": 259495672,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1970,
+        "index": "D2",
+        "rating": 2600,
+        "tags": [
+            "constructive algorithms",
+            "interactive",
+            "probabilities",
+            "strings"
+        ],
+        "id": 259495046,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "D2",
+        "rating": 2600,
+        "tags": [
+            "constructive algorithms",
+            "interactive",
+            "probabilities",
+            "strings"
+        ],
+        "id": 259494770,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "D2",
+        "rating": 2600,
+        "tags": [
+            "constructive algorithms",
+            "interactive",
+            "probabilities",
+            "strings"
+        ],
+        "id": 259494651,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "D2",
+        "rating": 2600,
+        "tags": [
+            "constructive algorithms",
+            "interactive",
+            "probabilities",
+            "strings"
+        ],
+        "id": 259494276,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "G2",
+        "rating": 2200,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "dp",
+            "graphs",
+            "trees"
+        ],
+        "id": 259493913,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "A2",
+        "rating": 2400,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "trees"
+        ],
+        "id": 259488365,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1970,
+        "index": "A2",
+        "rating": 2400,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "trees"
+        ],
+        "id": 259488234,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "G1",
+        "rating": 1900,
+        "tags": [
+            "dfs and similar",
+            "trees"
+        ],
+        "id": 259484433,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "D1",
+        "rating": 2100,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "interactive",
+            "strings"
+        ],
+        "id": 259481532,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "D1",
+        "rating": 2100,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "interactive",
+            "strings"
+        ],
+        "id": 259481019,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "G1",
+        "rating": 1900,
+        "tags": [
+            "dfs and similar",
+            "trees"
+        ],
+        "id": 259478936,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "D1",
+        "rating": 2100,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "interactive",
+            "strings"
+        ],
+        "id": 259478835,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "D1",
+        "rating": 2100,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "interactive",
+            "strings"
+        ],
+        "id": 259478722,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "G1",
+        "rating": 1900,
+        "tags": [
+            "dfs and similar",
+            "trees"
+        ],
+        "id": 259478473,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "E2",
+        "rating": 2000,
+        "tags": [
+            "dp",
+            "matrices"
+        ],
+        "id": 259477036,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "B2",
+        "rating": 2100,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259476302,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "E2",
+        "rating": 2000,
+        "tags": [
+            "dp",
+            "matrices"
+        ],
+        "id": 259476158,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "B2",
+        "rating": 2100,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259476156,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1970,
+        "index": "B2",
+        "rating": 2100,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259475722,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "E1",
+        "rating": 1800,
+        "tags": [
+            "dp"
+        ],
+        "id": 259473204,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "B1",
+        "rating": 1900,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259473128,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "E1",
+        "rating": 1800,
+        "tags": [
+            "dp"
+        ],
+        "id": 259470878,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "B1",
+        "rating": 1900,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259470476,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "C3",
+        "rating": 1900,
+        "tags": [
+            "dfs and similar",
+            "dp",
+            "games",
+            "trees"
+        ],
+        "id": 259466790,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "B1",
+        "rating": 1900,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259466538,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "C3",
+        "rating": 1900,
+        "tags": [
+            "dfs and similar",
+            "dp",
+            "games",
+            "trees"
+        ],
+        "id": 259466313,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1970,
+        "index": "C2",
+        "rating": 1700,
+        "tags": [
+            "dfs and similar",
+            "dp",
+            "games",
+            "trees"
+        ],
+        "id": 259466272,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "C1",
+        "rating": 1400,
+        "tags": [
+            "games"
+        ],
+        "id": 259466213,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1970,
+        "index": "C1",
+        "rating": 1400,
+        "tags": [
+            "games"
+        ],
+        "id": 259466132,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "A2",
+        "rating": 2400,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "trees"
+        ],
+        "id": 259466016,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "A2",
+        "rating": 2400,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "trees"
+        ],
+        "id": 259465898,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1970,
+        "index": "A1",
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "id": 259463944,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1950,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 259394605,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1950,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 259394486,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1950,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 259394315,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1950,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "dp",
+            "implementation",
+            "number theory"
+        ],
+        "id": 259391110,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1950,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 259388861,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1950,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 259388371,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1950,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 259387235,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1950,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 259387072,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1950,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 259386998,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1950,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 259386947,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1787,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 259326647,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "games",
+            "graphs",
+            "greedy",
+            "math"
+        ],
+        "id": 259260928,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "games",
+            "graphs",
+            "greedy",
+            "math"
+        ],
+        "id": 259260868,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1968,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "games",
+            "graphs",
+            "greedy",
+            "math"
+        ],
+        "id": 259260806,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "games",
+            "graphs",
+            "greedy",
+            "math"
+        ],
+        "id": 259260581,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "games",
+            "graphs",
+            "greedy",
+            "math"
+        ],
+        "id": 259260529,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1968,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "games",
+            "graphs",
+            "greedy",
+            "math"
+        ],
+        "id": 259259594,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1968,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "games",
+            "graphs",
+            "greedy",
+            "math"
+        ],
+        "id": 259258799,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1968,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "games",
+            "graphs",
+            "greedy",
+            "math"
+        ],
+        "id": 259257532,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1968,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "games",
+            "graphs",
+            "greedy",
+            "math"
+        ],
+        "id": 259257380,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1968,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "games",
+            "graphs",
+            "greedy",
+            "math"
+        ],
+        "id": 259257272,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1968,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259223500,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259222657,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259222213,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259219497,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259203806,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259200711,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259185876,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 259185334,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1968,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 259177201,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "two pointers"
+        ],
+        "id": 259160691,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 259150250,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1743,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "dp",
+            "greedy"
+        ],
+        "id": 259090178,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1385,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 258962952,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1972,
+        "index": "B",
+        "points": 750.0,
+        "rating": 900,
+        "tags": [
+            "games"
+        ],
+        "id": 258905822,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1972,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 258888757,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 401,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 255096266,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 401,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 255096180,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1952,
+        "index": "A",
+        "tags": [
+            "strings"
+        ],
+        "id": 254718185,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1952,
+        "index": "D",
+        "tags": [
+            "implementation"
+        ],
+        "id": 254712992,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1331,
+        "index": "B",
+        "tags": [
+            "*special",
+            "math",
+            "number theory"
+        ],
+        "id": 253639178,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1331,
+        "index": "B",
+        "tags": [
+            "*special",
+            "math",
+            "number theory"
+        ],
+        "id": 253639068,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1331,
+        "index": "B",
+        "tags": [
+            "*special",
+            "math",
+            "number theory"
+        ],
+        "id": 253639011,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1331,
+        "index": "A",
+        "tags": [
+            "*special"
+        ],
+        "id": 253638319,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1780,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 253529956,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1780,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 253529909,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1780,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 253529673,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1780,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 253529507,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1780,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 253529438,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 102951,
+        "index": "C",
+        "tags": [],
+        "id": 253471375,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 102951,
+        "index": "C",
+        "tags": [],
+        "id": 253471127,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 102951,
+        "index": "C",
+        "tags": [],
+        "id": 253471073,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 102951,
+        "index": "D",
+        "tags": [],
+        "id": 253470933,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 102951,
+        "index": "C",
+        "tags": [],
+        "id": 253470770,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 102951,
+        "index": "C",
+        "tags": [],
+        "id": 253470577,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 102951,
+        "index": "C",
+        "tags": [],
+        "id": 253470276,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 102951,
+        "index": "B",
+        "tags": [],
+        "id": 253470039,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102951,
+        "index": "B",
+        "tags": [],
+        "id": 253469964,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 102951,
+        "index": "A",
+        "tags": [],
+        "id": 253468162,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1945,
+        "index": "B",
+        "rating": 900,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "id": 252270818,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1945,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 252243589,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1945,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 252238230,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1945,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 252237944,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1945,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 252219119,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1899,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 248680687,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1899,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "dp",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 248680653,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1816,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 247624323,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1816,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 247623277,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1928,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 245871247,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1928,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "geometry",
+            "math"
+        ],
+        "id": 245855974,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 714,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 243777204,
+        "programmingLanguage": "C# 10",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 714,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1100,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 243777116,
+        "programmingLanguage": "Perl",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242322537,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242321200,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242317778,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1922,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 242312332,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1922,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 242311447,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1922,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 242310047,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1922,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 242308945,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242307113,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242300468,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242296682,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242295754,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242294477,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242293259,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242261661,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1922,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "combinatorics",
+            "constructive algorithms",
+            "math",
+            "sortings"
+        ],
+        "id": 242249861,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1922,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "strings"
+        ],
+        "id": 242226748,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1921,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "brute force",
+            "games",
+            "greedy",
+            "math"
+        ],
+        "id": 241834992,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1921,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "brute force",
+            "games",
+            "greedy",
+            "math"
+        ],
+        "id": 241834884,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1921,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "brute force",
+            "games",
+            "greedy",
+            "math"
+        ],
+        "id": 241834577,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1921,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "brute force",
+            "games",
+            "greedy",
+            "math"
+        ],
+        "id": 241831246,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1921,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "brute force",
+            "games",
+            "greedy",
+            "math"
+        ],
+        "id": 241829890,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1921,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "brute force",
+            "games",
+            "greedy",
+            "math"
+        ],
+        "id": 241828594,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1921,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 241824111,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1921,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 241735066,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1921,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 241716744,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1920,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 241491372,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1920,
+        "index": "F1",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "shortest paths"
+        ],
+        "id": 241490954,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1920,
+        "index": "F1",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "shortest paths"
+        ],
+        "id": 241490282,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1920,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "games",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 241489946,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1920,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 241436610,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1781,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1600,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 241352230,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1781,
+        "index": "D",
+        "points": 2000.0,
+        "rating": 1800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 241352165,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1744,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 240717131,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1919,
+        "index": "D",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "dsu",
+            "greedy",
+            "sortings",
+            "trees"
+        ],
+        "id": 240628545,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1919,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1400,
+        "tags": [
+            "data structures",
+            "dp",
+            "greedy"
+        ],
+        "id": 240628486,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1919,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1400,
+        "tags": [
+            "data structures",
+            "dp",
+            "greedy"
+        ],
+        "id": 240628437,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1919,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1400,
+        "tags": [
+            "data structures",
+            "dp",
+            "greedy"
+        ],
+        "id": 240628399,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1919,
+        "index": "D",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "dsu",
+            "greedy",
+            "sortings",
+            "trees"
+        ],
+        "id": 240594314,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1919,
+        "index": "D",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "dsu",
+            "greedy",
+            "sortings",
+            "trees"
+        ],
+        "id": 240594117,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1919,
+        "index": "C",
+        "points": 1000.0,
+        "rating": 1400,
+        "tags": [
+            "data structures",
+            "dp",
+            "greedy"
+        ],
+        "id": 240591480,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1919,
+        "index": "F1",
+        "points": 1500.0,
+        "rating": 2300,
+        "tags": [
+            "data structures",
+            "greedy"
+        ],
+        "id": 240587476,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1919,
+        "index": "D",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "dsu",
+            "greedy",
+            "sortings",
+            "trees"
+        ],
+        "id": 240530904,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1919,
+        "index": "A",
+        "points": 250.0,
+        "rating": 800,
+        "tags": [
+            "games",
+            "math"
+        ],
+        "id": 240514269,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1919,
+        "index": "A",
+        "points": 250.0,
+        "rating": 800,
+        "tags": [
+            "games",
+            "math"
+        ],
+        "id": 240509723,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1919,
+        "index": "B",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy"
+        ],
+        "id": 240503372,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1873,
+        "index": "E",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "sortings"
+        ],
+        "id": 240356512,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1624,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 239996790,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1916,
+        "index": "D",
+        "points": 1500.0,
+        "rating": 1700,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "geometry",
+            "math"
+        ],
+        "id": 239745546,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1916,
+        "index": "D",
+        "points": 1500.0,
+        "rating": 1700,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "geometry",
+            "math"
+        ],
+        "id": 239745341,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1916,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "games",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 239714638,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1916,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 239677143,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1916,
+        "index": "A",
+        "points": 250.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 239650105,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1916,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 239646392,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1916,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 239635206,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1839,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 239571397,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1839,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 239571350,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1857,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 239440013,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1915,
+        "index": "E",
+        "rating": 1300,
+        "tags": [
+            "data structures",
+            "greedy",
+            "math"
+        ],
+        "id": 239384189,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1915,
+        "index": "E",
+        "rating": 1300,
+        "tags": [
+            "data structures",
+            "greedy",
+            "math"
+        ],
+        "id": 239358283,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1915,
+        "index": "E",
+        "rating": 1300,
+        "tags": [
+            "data structures",
+            "greedy",
+            "math"
+        ],
+        "id": 239356909,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1915,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 239346141,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1915,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 239341629,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1915,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "implementation"
+        ],
+        "id": 239250466,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1915,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "implementation"
+        ],
+        "id": 239237445,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1915,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "bitmasks",
+            "implementation"
+        ],
+        "id": 239218448,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "H",
+        "rating": 1700,
+        "tags": [
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "greedy",
+            "implementation"
+        ],
+        "id": 238957569,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "H",
+        "rating": 1700,
+        "tags": [
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "greedy",
+            "implementation"
+        ],
+        "id": 238957110,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1850,
+        "index": "G",
+        "rating": 1500,
+        "tags": [
+            "combinatorics",
+            "data structures",
+            "geometry",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 238955700,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "G",
+        "rating": 1500,
+        "tags": [
+            "combinatorics",
+            "data structures",
+            "geometry",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 238955564,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1850,
+        "index": "G",
+        "rating": 1500,
+        "tags": [
+            "combinatorics",
+            "data structures",
+            "geometry",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 238955139,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1850,
+        "index": "G",
+        "rating": 1500,
+        "tags": [
+            "combinatorics",
+            "data structures",
+            "geometry",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 238954547,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1850,
+        "index": "F",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 238952735,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "E",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "geometry",
+            "implementation",
+            "math"
+        ],
+        "id": 238949314,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 238948531,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 238947898,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "id": 238946563,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1850,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "id": 238945786,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "R",
+        "tags": [],
+        "id": 238900120,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "P",
+        "tags": [],
+        "id": 238900103,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "O",
+        "tags": [],
+        "id": 238900094,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "N",
+        "tags": [],
+        "id": 238900044,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "M",
+        "tags": [],
+        "id": 238899993,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "L",
+        "tags": [],
+        "id": 238899966,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "K",
+        "tags": [],
+        "id": 238899955,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "J",
+        "tags": [],
+        "id": 238899889,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "I",
+        "tags": [],
+        "id": 238899869,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "H",
+        "tags": [],
+        "id": 238899856,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "G",
+        "tags": [],
+        "id": 238899750,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102961,
+        "index": "G",
+        "tags": [],
+        "id": 238899724,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102961,
+        "index": "F",
+        "tags": [],
+        "id": 238899686,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "E",
+        "tags": [],
+        "id": 238899665,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "D",
+        "tags": [],
+        "id": 238899658,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "C",
+        "tags": [],
+        "id": 238899638,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "B",
+        "tags": [],
+        "id": 238899619,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102961,
+        "index": "A",
+        "tags": [],
+        "id": 238899605,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1917,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1600,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 238743384,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1917,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1600,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 238742652,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1917,
+        "index": "D",
+        "points": 2250.0,
+        "rating": 2300,
+        "tags": [
+            "combinatorics",
+            "data structures",
+            "dp",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 238721875,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1917,
+        "index": "D",
+        "points": 2250.0,
+        "rating": 2300,
+        "tags": [
+            "combinatorics",
+            "data structures",
+            "dp",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 238717140,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1917,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 238703048,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1917,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "combinatorics",
+            "data structures",
+            "dp",
+            "strings"
+        ],
+        "id": 238694299,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1917,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "combinatorics",
+            "data structures",
+            "dp",
+            "strings"
+        ],
+        "id": 238692655,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1909,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 238616538,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1909,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 238577975,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1909,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 238572414,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1909,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 238571333,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1909,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 238570753,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1909,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 238569466,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1909,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 238568587,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1909,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 238568028,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1909,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 238554029,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1909,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 238543142,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1909,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 238541280,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1909,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 238532148,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1909,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 238525511,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1909,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 238524333,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1909,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 238522153,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1909,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 238516038,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1893,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1700,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 238405953,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1893,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1700,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 238405870,
+        "programmingLanguage": "GNU C11",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1893,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1700,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 238405703,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1893,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1700,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 238404715,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1893,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1700,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 238404062,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1893,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1700,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 238401895,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1893,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1700,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 238401754,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1893,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1400,
+        "tags": [
+            "brute force",
+            "dfs and similar",
+            "graphs",
+            "implementation"
+        ],
+        "id": 238398687,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1914,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 238372518,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1914,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 238372235,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1907,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 238132144,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1914,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 238039443,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1914,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 237982167,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1914,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 237962040,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1634,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "strings"
+        ],
+        "id": 237331784,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1665,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 237042596,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1665,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 237042440,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1904,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "brute force",
+            "implementation"
+        ],
+        "id": 236558755,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1904,
+        "index": "B",
+        "points": 750.0,
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 236538150,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1907,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "data structures",
+            "implementation",
+            "strings"
+        ],
+        "id": 236521079,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 617,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 236468301,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 791,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 236468065,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 266,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 236467801,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 236,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation",
+            "strings"
+        ],
+        "id": 236467484,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 281,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 236466055,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1747,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 236464470,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1392,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 236463859,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 339,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 236401468,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 339,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 236401380,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 112,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 236397125,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 263,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 236389550,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 50,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 236151943,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 282,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 236151493,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 158,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "*special",
+            "implementation"
+        ],
+        "id": 236151052,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 158,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "*special",
+            "implementation"
+        ],
+        "id": 236150931,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 158,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "*special",
+            "implementation"
+        ],
+        "id": 236150496,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 158,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "*special",
+            "implementation"
+        ],
+        "id": 236150236,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 231,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy"
+        ],
+        "id": 236142812,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 71,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "strings"
+        ],
+        "id": 236142581,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 236142245,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 236142115,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 236142040,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1511,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "math",
+            "number theory"
+        ],
+        "id": 235645233,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1622,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "data structures",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 235219877,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1900,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 900,
+        "tags": [
+            "dp",
+            "math"
+        ],
+        "id": 234525003,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1900,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 900,
+        "tags": [
+            "dp",
+            "math"
+        ],
+        "id": 234474526,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1900,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 234457766,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1800,
+        "index": "C1",
+        "rating": 1000,
+        "tags": [
+            "data structures",
+            "greedy"
+        ],
+        "id": 234426493,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1430,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 234369613,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1430,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 234369020,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1592,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 233716239,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1592,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 233715974,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1592,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 233715718,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1592,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 233630542,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1566,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math"
+        ],
+        "id": 233594050,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1611,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 233593120,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 750,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 233591446,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1856,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 217342532,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1856,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 217311646,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    }
+]

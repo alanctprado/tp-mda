@@ -1,0 +1,104 @@
+[
+    {
+        "contestId": 1985,
+        "index": "E",
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "combinatorics",
+            "math"
+        ],
+        "id": 265302725,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265294550,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1985,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 265277414,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 265270004,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1977,
+        "index": "B",
+        "points": 1250.0,
+        "rating": 1100,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 262767699,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1977,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 262758508,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1954,
+        "index": "F",
+        "rating": 3100,
+        "tags": [
+            "combinatorics",
+            "dp",
+            "math"
+        ],
+        "id": 256348430,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1954,
+        "index": "A",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 256295326,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "contestId": 1985,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 265301536,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1985,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 265248320,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1857,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 217668825,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1851,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 215605088,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1851,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 215580715,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 20,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 2000,
+        "tags": [
+            "math"
+        ],
+        "id": 204181647,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 20,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 2000,
+        "tags": [
+            "math"
+        ],
+        "id": 204144790,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 20,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 2000,
+        "tags": [
+            "math"
+        ],
+        "id": 204144603,
+        "programmingLanguage": "GNU C11",
+        "verdict": "COMPILATION_ERROR"
+    }
+]

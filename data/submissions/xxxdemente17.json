@@ -1,0 +1,93 @@
+[
+    {
+        "contestId": 1982,
+        "index": "D",
+        "points": 1750.0,
+        "rating": 1700,
+        "tags": [
+            "brute force",
+            "data structures",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 267374734,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1985,
+        "index": "H1",
+        "rating": 1700,
+        "tags": [
+            "brute force",
+            "data structures",
+            "dfs and similar",
+            "dsu",
+            "graphs",
+            "implementation"
+        ],
+        "id": 265376185,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1951,
+        "index": "G",
+        "points": 3250.0,
+        "rating": 3100,
+        "tags": [
+            "combinatorics",
+            "math",
+            "probabilities"
+        ],
+        "id": 259913085,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1957,
+        "index": "E",
+        "points": 2250.0,
+        "rating": 2400,
+        "tags": [
+            "brute force",
+            "combinatorics",
+            "dp",
+            "math",
+            "number theory"
+        ],
+        "id": 259913018,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1957,
+        "index": "F2",
+        "points": 1250.0,
+        "rating": 2700,
+        "tags": [
+            "binary search",
+            "data structures",
+            "dfs and similar",
+            "hashing",
+            "probabilities",
+            "trees"
+        ],
+        "id": 259912964,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1972,
+        "index": "B",
+        "points": 750.0,
+        "rating": 900,
+        "tags": [
+            "games"
+        ],
+        "id": 259912842,
+        "programmingLanguage": "PyPy 2",
+        "verdict": "COMPILATION_ERROR"
+    }
+]

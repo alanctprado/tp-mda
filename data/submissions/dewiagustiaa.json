@@ -1,0 +1,56 @@
+[
+    {
+        "contestId": 1976,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 263334130,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1950,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 253762490,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1792,
+        "index": "C",
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "brute force",
+            "greedy",
+            "math",
+            "two pointers"
+        ],
+        "id": 193234539,
+        "programmingLanguage": "Clang++20 Diagnostics",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1792,
+        "index": "C",
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "brute force",
+            "greedy",
+            "math",
+            "two pointers"
+        ],
+        "id": 193234313,
+        "programmingLanguage": "Clang++20 Diagnostics",
+        "verdict": "COMPILATION_ERROR"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "contestId": 1973,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1700,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 261404784,
+        "programmingLanguage": "Java 8",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1973,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "bitmasks",
+            "data structures",
+            "greedy",
+            "math",
+            "two pointers"
+        ],
+        "id": 261386044,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1973,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "brute force",
+            "dp",
+            "implementation",
+            "math"
+        ],
+        "id": 261378415,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 770,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "*special",
+            "implementation"
+        ],
+        "id": 172548177,
+        "programmingLanguage": "Java 17",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 770,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "*special",
+            "implementation"
+        ],
+        "id": 172548010,
+        "programmingLanguage": "Java 17",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 33,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1200,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 172547559,
+        "programmingLanguage": "Java 17",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 170107840,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 170107678,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 170107537,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 170107412,
+        "programmingLanguage": "GNU C11",
+        "verdict": "COMPILATION_ERROR"
+    }
+]

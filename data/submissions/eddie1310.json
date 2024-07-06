@@ -1,0 +1,32 @@
+[
+    {
+        "contestId": 1981,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 263448998,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 5,
+        "index": "C",
+        "rating": 1900,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "dp",
+            "greedy",
+            "sortings",
+            "strings"
+        ],
+        "id": 191822864,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    }
+]

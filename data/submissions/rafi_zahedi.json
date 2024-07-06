@@ -1,0 +1,3450 @@
+[
+    {
+        "contestId": 105123,
+        "index": "C",
+        "tags": [],
+        "id": 268086845,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 105123,
+        "index": "B",
+        "tags": [],
+        "id": 268086136,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 105123,
+        "index": "A",
+        "tags": [],
+        "id": 268085703,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1989,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 267742268,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1989,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "greedy",
+            "strings"
+        ],
+        "id": 267691246,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1989,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 267683944,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1986,
+        "index": "D",
+        "rating": 1400,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "implementation",
+            "math",
+            "two pointers"
+        ],
+        "id": 267072223,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1986,
+        "index": "F",
+        "rating": 1900,
+        "tags": [
+            "dfs and similar",
+            "graphs",
+            "trees"
+        ],
+        "id": 267068133,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1986,
+        "index": "F",
+        "rating": 1900,
+        "tags": [
+            "dfs and similar",
+            "graphs",
+            "trees"
+        ],
+        "id": 267066030,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1986,
+        "index": "F",
+        "rating": 1900,
+        "tags": [
+            "dfs and similar",
+            "graphs",
+            "trees"
+        ],
+        "id": 267063053,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1986,
+        "index": "E",
+        "rating": 1700,
+        "tags": [
+            "greedy",
+            "math",
+            "number theory",
+            "sortings"
+        ],
+        "id": 267056936,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1986,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "data structures",
+            "greedy",
+            "sortings"
+        ],
+        "id": 267033517,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1986,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "greedy",
+            "sortings"
+        ],
+        "id": 267025047,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1986,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "geometry",
+            "math",
+            "sortings"
+        ],
+        "id": 266970430,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265368099,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1985,
+        "index": "E",
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "combinatorics",
+            "math"
+        ],
+        "id": 265357877,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265357376,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265354121,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265342561,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1985,
+        "index": "E",
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "combinatorics",
+            "math"
+        ],
+        "id": 265338985,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265335883,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1985,
+        "index": "D",
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 265283350,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 265257801,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1985,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 265242102,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1985,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 265223502,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1979,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "combinatorics",
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 264456360,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1979,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1000,
+        "tags": [
+            "bitmasks",
+            "greedy"
+        ],
+        "id": 264443336,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1979,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation"
+        ],
+        "id": 264427151,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1980,
+        "index": "E",
+        "rating": 1600,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "greedy",
+            "hashing",
+            "implementation",
+            "math",
+            "matrices",
+            "sortings"
+        ],
+        "id": 264021157,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1980,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 264008130,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "CHALLENGED"
+    },
+    {
+        "contestId": 1980,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 264003998,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1980,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 263999056,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1980,
+        "index": "D",
+        "rating": 1400,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 263987666,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1980,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 263975521,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1980,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 263969981,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1980,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "sortings",
+            "sortings"
+        ],
+        "id": 263946433,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1980,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 263926458,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1981,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1300,
+        "tags": [
+            "bitmasks",
+            "math"
+        ],
+        "id": 263480106,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1981,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 263455802,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1974,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "combinatorics",
+            "data structures"
+        ],
+        "id": 261907948,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1974,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "combinatorics",
+            "data structures"
+        ],
+        "id": 261880042,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1974,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 261831575,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1974,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 261813451,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1957,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 259389177,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1957,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 259388160,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 259230843,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 259230029,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 259227145,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 259225483,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 259223375,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1968,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "two pointers"
+        ],
+        "id": 259205712,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1968,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "two pointers"
+        ],
+        "id": 259195418,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1968,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "two pointers"
+        ],
+        "id": 259190202,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1968,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "two pointers"
+        ],
+        "id": 259180100,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1968,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 259157703,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1931,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy"
+        ],
+        "id": 258287169,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1931,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "strings"
+        ],
+        "id": 258285038,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 144,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 257351406,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1955,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "implementation",
+            "sortings"
+        ],
+        "id": 255754293,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1955,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 255747195,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1955,
+        "index": "E",
+        "rating": 1700,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 255732699,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1955,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 255708425,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1955,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 255674553,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1955,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 255668574,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1955,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 255646450,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1945,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 255596597,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 520,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 255201923,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1950,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "dp",
+            "implementation",
+            "number theory"
+        ],
+        "id": 253786210,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1950,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 253728599,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1950,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 253688808,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1950,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 253652708,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1945,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "dp",
+            "greedy"
+        ],
+        "id": 252242081,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "SKIPPED"
+    },
+    {
+        "contestId": 1945,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "brute force"
+        ],
+        "id": 252237277,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "SKIPPED"
+    },
+    {
+        "contestId": 1945,
+        "index": "B",
+        "rating": 900,
+        "tags": [
+            "math",
+            "number theory"
+        ],
+        "id": 252226067,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "SKIPPED"
+    },
+    {
+        "contestId": 1945,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 252217441,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "SKIPPED"
+    },
+    {
+        "contestId": 1941,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "dfs and similar",
+            "dp",
+            "implementation"
+        ],
+        "id": 250762105,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1941,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "dp",
+            "greedy",
+            "strings"
+        ],
+        "id": 250751803,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1941,
+        "index": "C",
+        "rating": 900,
+        "tags": [
+            "dp",
+            "greedy",
+            "strings"
+        ],
+        "id": 250739110,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1941,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 250735961,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1941,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 250728193,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1933,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 248585516,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1933,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 248581963,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1933,
+        "index": "D",
+        "rating": 1200,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math",
+            "number theory",
+            "sortings"
+        ],
+        "id": 248549572,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1933,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 248516479,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1915,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "binary search",
+            "implementation"
+        ],
+        "id": 248437819,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1915,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "implementation"
+        ],
+        "id": 248435567,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1915,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "bitmasks",
+            "implementation"
+        ],
+        "id": 248433887,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1926,
+        "index": "F",
+        "rating": 2200,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "dfs and similar",
+            "dp",
+            "implementation"
+        ],
+        "id": 247347623,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1926,
+        "index": "E",
+        "rating": 1500,
+        "tags": [
+            "binary search",
+            "bitmasks",
+            "data structures",
+            "dp",
+            "implementation",
+            "math",
+            "number theory"
+        ],
+        "id": 247339628,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1926,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "bitmasks",
+            "greedy"
+        ],
+        "id": 247333492,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1926,
+        "index": "C",
+        "rating": 1200,
+        "tags": [
+            "dp",
+            "implementation"
+        ],
+        "id": 247317848,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1926,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "bitmasks",
+            "greedy"
+        ],
+        "id": 247317095,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1926,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "geometry",
+            "implementation"
+        ],
+        "id": 247282404,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1926,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "geometry",
+            "implementation"
+        ],
+        "id": 247255602,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1926,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 247228245,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1932,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "brute force",
+            "data structures",
+            "implementation",
+            "math",
+            "two pointers"
+        ],
+        "id": 247070726,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1932,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "brute force",
+            "data structures",
+            "implementation",
+            "math",
+            "two pointers"
+        ],
+        "id": 247069905,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1932,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "number theory"
+        ],
+        "id": 247061151,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "CHALLENGED"
+    },
+    {
+        "contestId": 1932,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation"
+        ],
+        "id": 247044034,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1931,
+        "index": "E",
+        "rating": 1400,
+        "tags": [
+            "games",
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 246231780,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1927,
+        "index": "D",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "dp",
+            "dsu",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 245223104,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "SKIPPED"
+    },
+    {
+        "contestId": 1927,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 245201972,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "SKIPPED"
+    },
+    {
+        "contestId": 1927,
+        "index": "B",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "strings"
+        ],
+        "id": 245163424,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "SKIPPED"
+    },
+    {
+        "contestId": 1927,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "strings"
+        ],
+        "id": 245119457,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "SKIPPED"
+    },
+    {
+        "contestId": 1619,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 228100123,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104637,
+        "index": "C",
+        "rating": 900,
+        "tags": [],
+        "id": 227968535,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104637,
+        "index": "B",
+        "rating": 1000,
+        "tags": [],
+        "id": 227967706,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104637,
+        "index": "B",
+        "rating": 1000,
+        "tags": [],
+        "id": 227967530,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104637,
+        "index": "B",
+        "rating": 1000,
+        "tags": [],
+        "id": 227966874,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104637,
+        "index": "B",
+        "rating": 1000,
+        "tags": [],
+        "id": 227966678,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104637,
+        "index": "B",
+        "rating": 1000,
+        "tags": [],
+        "id": 227966312,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104637,
+        "index": "A",
+        "rating": 800,
+        "tags": [],
+        "id": 227964341,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104637,
+        "index": "A",
+        "rating": 800,
+        "tags": [],
+        "id": 227963933,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1877,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 227128595,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1877,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 227124439,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1878,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 225354672,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1878,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 225343442,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1878,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 225307162,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1878,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy"
+        ],
+        "id": 225281354,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1328,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 224739960,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1328,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 224738260,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1328,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 224738159,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 228,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 224737759,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1830,
+        "index": "D",
+        "points": 2250.0,
+        "rating": 2800,
+        "tags": [
+            "brute force",
+            "dp",
+            "trees"
+        ],
+        "id": 222945867,
+        "programmingLanguage": "C++17 (GCC 9-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1830,
+        "index": "D",
+        "points": 2250.0,
+        "rating": 2800,
+        "tags": [
+            "brute force",
+            "dp",
+            "trees"
+        ],
+        "id": 222945402,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1830,
+        "index": "D",
+        "points": 2250.0,
+        "rating": 2800,
+        "tags": [
+            "brute force",
+            "dp",
+            "trees"
+        ],
+        "id": 222944261,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1830,
+        "index": "D",
+        "points": 2250.0,
+        "rating": 2800,
+        "tags": [
+            "brute force",
+            "dp",
+            "trees"
+        ],
+        "id": 222943413,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1859,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 222179426,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1859,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 222060060,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1862,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 222011871,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1851,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 219763828,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1857,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 218049573,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1851,
+        "index": "C",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 215590081,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1851,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "sortings",
+            "two pointers"
+        ],
+        "id": 215581805,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1851,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 215555043,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 405,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 215389880,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 405,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 215389599,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 61,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 215388823,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 479,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 215332394,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 479,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 215332162,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 200,
+        "index": "B",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 215328129,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 479,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 211207246,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 479,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 211206767,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 479,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 211206531,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 479,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 211206359,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 136,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 211205636,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 266,
+        "index": "B",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "graph matchings",
+            "implementation",
+            "shortest paths"
+        ],
+        "id": 211164075,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 116,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 211160620,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1841,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "games"
+        ],
+        "id": 211000358,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1841,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "games"
+        ],
+        "id": 211000244,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 118,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 210963600,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 118,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 210962516,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 118,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 210961448,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1800,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 197457149,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1800,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 197456572,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1800,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 197456424,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1791,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "two pointers"
+        ],
+        "id": 194083394,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1791,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "geometry",
+            "implementation"
+        ],
+        "id": 193636077,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1791,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 193633452,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 266,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 192497355,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1760,
+        "index": "D",
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "two pointers"
+        ],
+        "id": 186706109,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1760,
+        "index": "D",
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "two pointers"
+        ],
+        "id": 186706031,
+        "programmingLanguage": "PyPy 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1760,
+        "index": "D",
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "two pointers"
+        ],
+        "id": 186705946,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1760,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "data structures",
+            "implementation",
+            "sortings"
+        ],
+        "id": 186502170,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1760,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "data structures",
+            "implementation",
+            "sortings"
+        ],
+        "id": 186501871,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1760,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 186500229,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1760,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "sortings"
+        ],
+        "id": 186498733,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1714,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "data structures",
+            "greedy",
+            "implementation"
+        ],
+        "id": 186334308,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1714,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "data structures",
+            "greedy",
+            "implementation"
+        ],
+        "id": 186333317,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1722,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 170298380,
+        "programmingLanguage": "C++14 (GCC 6-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1722,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 170297483,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1722,
+        "index": "D",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 170286050,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1722,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 170257041,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1722,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 170248513,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1722,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 170246958,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1722,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 170239979,
+        "programmingLanguage": "Java 8",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1182,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "dp",
+            "math"
+        ],
+        "id": 169429250,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1714,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "data structures",
+            "greedy",
+            "implementation"
+        ],
+        "id": 166574268,
+        "programmingLanguage": "Java 8",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 469,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 166467854,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 705,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 166022989,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 131,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 165852289,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 122,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "number theory"
+        ],
+        "id": 165808908,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 122,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "number theory"
+        ],
+        "id": 165808483,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 122,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "brute force",
+            "number theory"
+        ],
+        "id": 165808047,
+        "programmingLanguage": "Java 8",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 58,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "greedy",
+            "strings"
+        ],
+        "id": 165803974,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 69,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 165801037,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 118,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 165799506,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1,
+        "index": "A",
+        "rating": 1000,
+        "tags": [
+            "math"
+        ],
+        "id": 165796289,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1,
+        "index": "A",
+        "rating": 1000,
+        "tags": [
+            "math"
+        ],
+        "id": 165794063,
+        "programmingLanguage": "Java 8",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1707,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1600,
+        "tags": [
+            "binary search",
+            "constructive algorithms",
+            "greedy",
+            "implementation"
+        ],
+        "id": 165698976,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1708,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 164680394,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1702,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "greedy"
+        ],
+        "id": 164117556,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1702,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "greedy"
+        ],
+        "id": 164113993,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1702,
+        "index": "C",
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "greedy"
+        ],
+        "id": 164113328,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1702,
+        "index": "D",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 164104495,
+        "programmingLanguage": "Java 11",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1702,
+        "index": "D",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 164101313,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1702,
+        "index": "D",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 164100922,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1702,
+        "index": "D",
+        "rating": 1000,
+        "tags": [
+            "greedy"
+        ],
+        "id": 164098698,
+        "programmingLanguage": "Java 11",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 313,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "number theory"
+        ],
+        "id": 162970531,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 451,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162969215,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 451,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162968488,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 451,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162968375,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 451,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162968002,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 451,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162967815,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 337,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "greedy"
+        ],
+        "id": 162964340,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 337,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "greedy"
+        ],
+        "id": 162963318,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 208,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "strings"
+        ],
+        "id": 162960217,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 486,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 162958672,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 486,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 162958555,
+        "programmingLanguage": "Java 11",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 486,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 162958190,
+        "programmingLanguage": "Java 11",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 486,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 162957475,
+        "programmingLanguage": "Java 11",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 486,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 162957260,
+        "programmingLanguage": "Java 11",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 344,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162956226,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1690,
+        "index": "D",
+        "rating": 1000,
+        "tags": [
+            "implementation",
+            "two pointers"
+        ],
+        "id": 162924900,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1030,
+        "index": "A",
+        "points": 250.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162873167,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 467,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162872552,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 467,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162872079,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 677,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162870495,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 160,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 162335801,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 580,
+        "index": "A",
+        "points": 750.0,
+        "rating": 900,
+        "tags": [
+            "brute force",
+            "dp",
+            "implementation"
+        ],
+        "id": 162333560,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 318,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "math"
+        ],
+        "id": 162331606,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 318,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "math"
+        ],
+        "id": 162331527,
+        "programmingLanguage": "Java 11",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 318,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "math"
+        ],
+        "id": 162329979,
+        "programmingLanguage": "Java 11",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 133,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162328983,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 133,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation"
+        ],
+        "id": 162328194,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 96,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 162327186,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 96,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 162326306,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 96,
+        "index": "A",
+        "points": 500.0,
+        "rating": 900,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 162325550,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1697,
+        "index": "B",
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 162198185,
+        "programmingLanguage": "Java 11",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1697,
+        "index": "B",
+        "rating": 900,
+        "tags": [
+            "greedy",
+            "sortings"
+        ],
+        "id": 162196963,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1700,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 162045857,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1700,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math"
+        ],
+        "id": 162041416,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 271,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force"
+        ],
+        "id": 162037929,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 41,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 162030647,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 734,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 162029912,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 110,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 161986970,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 110,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 161986644,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 977,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 161921760,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 59,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 161920395,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 617,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 161919133,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 546,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 161917981,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 546,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 161917497,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 546,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 161917035,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 791,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 161916279,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 236,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation",
+            "strings"
+        ],
+        "id": 161915256,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 281,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 161838623,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 112,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 161838076,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 112,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 161837674,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 281,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 161699720,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 339,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "sortings",
+            "strings"
+        ],
+        "id": 161698648,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 112,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 161625428,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 263,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 161620542,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 282,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation"
+        ],
+        "id": 161618200,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 50,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 161617546,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 158,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "*special",
+            "implementation"
+        ],
+        "id": 161616904,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 158,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "*special",
+            "implementation"
+        ],
+        "id": 161615755,
+        "programmingLanguage": "Java 8",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 231,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy"
+        ],
+        "id": 161614250,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 71,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "strings"
+        ],
+        "id": 161612184,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 71,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "strings"
+        ],
+        "id": 161612030,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 161611003,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 161610900,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 161610731,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1206,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 900,
+        "tags": [
+            "dp",
+            "implementation"
+        ],
+        "id": 161549008,
+        "programmingLanguage": "Java 11",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1206,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 900,
+        "tags": [
+            "dp",
+            "implementation"
+        ],
+        "id": 161548570,
+        "programmingLanguage": "Java 11",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1213,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "data structures",
+            "implementation"
+        ],
+        "id": 161544198,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1472,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 161536346,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1472,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 161532034,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1472,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "dp",
+            "greedy",
+            "math"
+        ],
+        "id": 161530031,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1472,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 161528244,
+        "programmingLanguage": "Java 11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103785,
+        "index": "B",
+        "tags": [],
+        "id": 160927873,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103785,
+        "index": "B",
+        "tags": [],
+        "id": 160926120,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103785,
+        "index": "B",
+        "tags": [],
+        "id": 160925861,
+        "programmingLanguage": "Java 11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103785,
+        "index": "A",
+        "tags": [],
+        "id": 160924642,
+        "programmingLanguage": "Java 8",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103785,
+        "index": "A",
+        "tags": [],
+        "id": 160716248,
+        "programmingLanguage": "Java 11",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 103785,
+        "index": "A",
+        "tags": [],
+        "id": 160715994,
+        "programmingLanguage": "Java 11",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 103785,
+        "index": "A",
+        "tags": [],
+        "id": 160710877,
+        "programmingLanguage": "Java 11",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 103785,
+        "index": "A",
+        "tags": [],
+        "id": 160710566,
+        "programmingLanguage": "Java 8",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1182,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "dp",
+            "math"
+        ],
+        "id": 160661096,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1182,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "dp",
+            "math"
+        ],
+        "id": 160660365,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1182,
+        "index": "A",
+        "points": 500.0,
+        "rating": 1000,
+        "tags": [
+            "dp",
+            "math"
+        ],
+        "id": 160660040,
+        "programmingLanguage": "Java 8",
+        "verdict": "WRONG_ANSWER"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "contestId": 1981,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 263476417,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1953,
+        "index": "A",
+        "tags": [
+            "*special"
+        ],
+        "id": 259822791,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "SKIPPED"
+    },
+    {
+        "contestId": 1953,
+        "index": "A",
+        "tags": [
+            "*special"
+        ],
+        "id": 259822774,
+        "programmingLanguage": "GNU C11",
+        "verdict": "SKIPPED"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 251259925,
+        "programmingLanguage": "GNU C11",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 1935,
+        "index": "F",
+        "points": 3000.0,
+        "rating": 2800,
+        "tags": [
+            "binary search",
+            "constructive algorithms",
+            "data structures",
+            "dfs and similar",
+            "dsu",
+            "greedy",
+            "implementation",
+            "trees"
+        ],
+        "id": 249771210,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "RUNTIME_ERROR"
+    }
+]

@@ -1,0 +1,4358 @@
+[
+    {
+        "contestId": 1979,
+        "index": "D",
+        "points": 2000.0,
+        "rating": 1800,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "dp",
+            "greedy",
+            "hashing",
+            "strings"
+        ],
+        "id": 264492386,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1979,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "combinatorics",
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 264444350,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1979,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "combinatorics",
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 264433280,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1979,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "combinatorics",
+            "constructive algorithms",
+            "number theory"
+        ],
+        "id": 264431609,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1979,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1000,
+        "tags": [
+            "bitmasks",
+            "greedy"
+        ],
+        "id": 264418440,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1979,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation"
+        ],
+        "id": 264410595,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103990,
+        "index": "B",
+        "tags": [],
+        "id": 262044663,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103990,
+        "index": "B",
+        "tags": [],
+        "id": 262040892,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "B",
+        "tags": [],
+        "id": 262039729,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "B",
+        "tags": [],
+        "id": 262037561,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "D",
+        "tags": [],
+        "id": 262020287,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103990,
+        "index": "D",
+        "tags": [],
+        "id": 262018886,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 103990,
+        "index": "D",
+        "tags": [],
+        "id": 262018372,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 103990,
+        "index": "G",
+        "tags": [],
+        "id": 261951535,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "G",
+        "tags": [],
+        "id": 261951291,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "G",
+        "tags": [],
+        "id": 261951071,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 103990,
+        "index": "G",
+        "tags": [],
+        "id": 261950865,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "G",
+        "tags": [],
+        "id": 261950133,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "G",
+        "tags": [],
+        "id": 261950111,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 103990,
+        "index": "G",
+        "tags": [],
+        "id": 261949955,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "G",
+        "tags": [],
+        "id": 261947315,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "G",
+        "tags": [],
+        "id": 261947157,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "E",
+        "tags": [],
+        "id": 261946936,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "E",
+        "tags": [],
+        "id": 261946843,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "G",
+        "tags": [],
+        "id": 261946805,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "G",
+        "tags": [],
+        "id": 261946605,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 103990,
+        "index": "F",
+        "tags": [],
+        "id": 261943323,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103990,
+        "index": "F",
+        "tags": [],
+        "id": 261943232,
+        "programmingLanguage": "C++20 (GCC 13-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "F",
+        "tags": [],
+        "id": 261943188,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 103990,
+        "index": "D",
+        "tags": [],
+        "id": 261943153,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103990,
+        "index": "H",
+        "tags": [],
+        "id": 261942136,
+        "programmingLanguage": "PyPy 3-64",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103990,
+        "index": "C",
+        "tags": [],
+        "id": 261940569,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1972,
+        "index": "B",
+        "points": 750.0,
+        "rating": 900,
+        "tags": [
+            "games"
+        ],
+        "id": 258913525,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1972,
+        "index": "D2",
+        "points": 1500.0,
+        "rating": 2200,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 258909969,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1972,
+        "index": "D1",
+        "points": 1000.0,
+        "rating": 1400,
+        "tags": [
+            "brute force",
+            "math",
+            "number theory"
+        ],
+        "id": 258892361,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1972,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1400,
+        "tags": [
+            "binary search",
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 258884522,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1972,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1400,
+        "tags": [
+            "binary search",
+            "constructive algorithms",
+            "greedy",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 258882262,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1972,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 258870361,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1966,
+        "index": "F",
+        "points": 3000.0,
+        "rating": 2900,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 258778493,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1966,
+        "index": "E",
+        "points": 2250.0,
+        "rating": 2300,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 258766325,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1966,
+        "index": "E",
+        "points": 2250.0,
+        "rating": 2300,
+        "tags": [
+            "greedy",
+            "implementation"
+        ],
+        "id": 258761005,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1966,
+        "index": "D",
+        "points": 2000.0,
+        "rating": 1800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 258445725,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1966,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1400,
+        "tags": [
+            "games",
+            "greedy"
+        ],
+        "id": 258434315,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1966,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1400,
+        "tags": [
+            "games",
+            "greedy"
+        ],
+        "id": 258433731,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1966,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "games",
+            "greedy"
+        ],
+        "id": 258426408,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1966,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "constructive algorithms",
+            "implementation"
+        ],
+        "id": 258423358,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1957,
+        "index": "E",
+        "points": 2250.0,
+        "rating": 2400,
+        "tags": [
+            "brute force",
+            "combinatorics",
+            "dp",
+            "math",
+            "number theory"
+        ],
+        "id": 257641861,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1957,
+        "index": "D",
+        "points": 1750.0,
+        "rating": 1900,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "dp",
+            "math"
+        ],
+        "id": 257633539,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1957,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1600,
+        "tags": [
+            "combinatorics",
+            "dp",
+            "math"
+        ],
+        "id": 257618765,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1957,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "greedy",
+            "implementation"
+        ],
+        "id": 257591160,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1957,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 257576245,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104945,
+        "index": "E",
+        "tags": [],
+        "id": 257197026,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104945,
+        "index": "E",
+        "tags": [],
+        "id": 257196856,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "E",
+        "tags": [],
+        "id": 257196302,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 257196190,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104821,
+        "index": "M",
+        "tags": [],
+        "id": 256484674,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104821,
+        "index": "M",
+        "tags": [],
+        "id": 256482679,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104821,
+        "index": "M",
+        "tags": [],
+        "id": 256478102,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104821,
+        "index": "M",
+        "tags": [],
+        "id": 256471186,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104821,
+        "index": "M",
+        "tags": [],
+        "id": 256469616,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104821,
+        "index": "M",
+        "tags": [],
+        "id": 256468324,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104821,
+        "index": "F",
+        "tags": [],
+        "id": 256457726,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104821,
+        "index": "C",
+        "tags": [],
+        "id": 256455693,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104821,
+        "index": "F",
+        "tags": [],
+        "id": 256447793,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104821,
+        "index": "I",
+        "tags": [],
+        "id": 256443593,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104821,
+        "index": "I",
+        "tags": [],
+        "id": 256442545,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 256311308,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 256309793,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 256306845,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 256294966,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 256151120,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 256148709,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 255002967,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 255000429,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 100812,
+        "index": "G",
+        "tags": [],
+        "id": 252944990,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100812,
+        "index": "K",
+        "tags": [],
+        "id": 252944563,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 100812,
+        "index": "G",
+        "tags": [],
+        "id": 252942326,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 100812,
+        "index": "G",
+        "tags": [],
+        "id": 252940875,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 100812,
+        "index": "E",
+        "tags": [],
+        "id": 252938237,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100812,
+        "index": "G",
+        "tags": [],
+        "id": 252937942,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 100812,
+        "index": "E",
+        "tags": [],
+        "id": 252936935,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 100812,
+        "index": "E",
+        "tags": [],
+        "id": 252934183,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 100812,
+        "index": "I",
+        "tags": [],
+        "id": 252930017,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100812,
+        "index": "G",
+        "tags": [],
+        "id": 252929129,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 100812,
+        "index": "G",
+        "tags": [],
+        "id": 252928554,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 100812,
+        "index": "L",
+        "tags": [],
+        "id": 252926230,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100812,
+        "index": "F",
+        "tags": [],
+        "id": 252921532,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100812,
+        "index": "B",
+        "tags": [],
+        "id": 252919333,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100812,
+        "index": "B",
+        "tags": [],
+        "id": 252918702,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 100812,
+        "index": "J",
+        "tags": [],
+        "id": 252916159,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100812,
+        "index": "D",
+        "tags": [],
+        "id": 252914360,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100812,
+        "index": "D",
+        "tags": [],
+        "id": 252912882,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1944,
+        "index": "D",
+        "points": 2250.0,
+        "rating": 2000,
+        "tags": [
+            "hashing",
+            "implementation",
+            "strings"
+        ],
+        "id": 252798088,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1944,
+        "index": "D",
+        "points": 2250.0,
+        "rating": 2000,
+        "tags": [
+            "hashing",
+            "implementation",
+            "strings"
+        ],
+        "id": 252796587,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1944,
+        "index": "D",
+        "points": 2250.0,
+        "rating": 2000,
+        "tags": [
+            "hashing",
+            "implementation",
+            "strings"
+        ],
+        "id": 251779835,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1944,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "games",
+            "greedy"
+        ],
+        "id": 251727315,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1944,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1300,
+        "tags": [
+            "constructive algorithms",
+            "games",
+            "greedy"
+        ],
+        "id": 251722731,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1944,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms"
+        ],
+        "id": 251715989,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1944,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1100,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms"
+        ],
+        "id": 251713264,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1944,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "graphs",
+            "greedy",
+            "math"
+        ],
+        "id": 251701740,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104790,
+        "index": "K",
+        "tags": [],
+        "id": 251686842,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104790,
+        "index": "K",
+        "tags": [],
+        "id": 250368610,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104790,
+        "index": "K",
+        "tags": [],
+        "id": 250368514,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104790,
+        "index": "K",
+        "tags": [],
+        "id": 250368353,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104790,
+        "index": "K",
+        "tags": [],
+        "id": 250361164,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104790,
+        "index": "K",
+        "tags": [],
+        "id": 250360817,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104790,
+        "index": "E",
+        "tags": [],
+        "id": 250360069,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104790,
+        "index": "E",
+        "tags": [],
+        "id": 250359414,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104790,
+        "index": "L",
+        "tags": [],
+        "id": 250358197,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104790,
+        "index": "K",
+        "tags": [],
+        "id": 250355411,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104790,
+        "index": "C",
+        "tags": [],
+        "id": 250350349,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104790,
+        "index": "C",
+        "tags": [],
+        "id": 250349072,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104790,
+        "index": "F",
+        "tags": [],
+        "id": 250346353,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104790,
+        "index": "G",
+        "tags": [],
+        "id": 250344715,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104790,
+        "index": "C",
+        "tags": [],
+        "id": 250341059,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104790,
+        "index": "B",
+        "tags": [],
+        "id": 250335544,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104790,
+        "index": "D",
+        "tags": [],
+        "id": 250334530,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104790,
+        "index": "A",
+        "tags": [],
+        "id": 250333002,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104790,
+        "index": "A",
+        "tags": [],
+        "id": 250332567,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "E",
+        "tags": [],
+        "id": 249526309,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104945,
+        "index": "E",
+        "tags": [],
+        "id": 249526264,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 104945,
+        "index": "E",
+        "tags": [],
+        "id": 249525800,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "L",
+        "tags": [],
+        "id": 249482852,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104945,
+        "index": "L",
+        "tags": [],
+        "id": 249482096,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 104945,
+        "index": "L",
+        "tags": [],
+        "id": 249401031,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "L",
+        "tags": [],
+        "id": 249400981,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 104945,
+        "index": "L",
+        "tags": [],
+        "id": 249400081,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "E",
+        "tags": [],
+        "id": 249396345,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104945,
+        "index": "E",
+        "tags": [],
+        "id": 249395808,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "E",
+        "tags": [],
+        "id": 249395447,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "E",
+        "tags": [],
+        "id": 249395409,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 104945,
+        "index": "B",
+        "tags": [],
+        "id": 249379274,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104945,
+        "index": "B",
+        "tags": [],
+        "id": 249379168,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 104945,
+        "index": "A",
+        "tags": [],
+        "id": 249377537,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104945,
+        "index": "A",
+        "tags": [],
+        "id": 249377070,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 104945,
+        "index": "A",
+        "tags": [],
+        "id": 249375978,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104945,
+        "index": "A",
+        "tags": [],
+        "id": 249375454,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104945,
+        "index": "A",
+        "tags": [],
+        "id": 249373226,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "A",
+        "tags": [],
+        "id": 249372897,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "A",
+        "tags": [],
+        "id": 249371996,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "A",
+        "tags": [],
+        "id": 249370822,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "J",
+        "tags": [],
+        "id": 249363796,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104945,
+        "index": "J",
+        "tags": [],
+        "id": 249362776,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "J",
+        "tags": [],
+        "id": 249361380,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "K",
+        "tags": [],
+        "id": 249357615,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104945,
+        "index": "F",
+        "tags": [],
+        "id": 249356838,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104945,
+        "index": "F",
+        "tags": [],
+        "id": 249356437,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 104945,
+        "index": "K",
+        "tags": [],
+        "id": 249352916,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104945,
+        "index": "K",
+        "tags": [],
+        "id": 249352680,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104945,
+        "index": "K",
+        "tags": [],
+        "id": 249352592,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104945,
+        "index": "I",
+        "tags": [],
+        "id": 249351126,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245409475,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245408839,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245408654,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245408547,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245408237,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245408074,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245407726,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245407370,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245405859,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245405315,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245405198,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245404744,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245388709,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245388253,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 319,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "dp",
+            "geometry"
+        ],
+        "id": 245388098,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 319,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "dp",
+            "geometry"
+        ],
+        "id": 245388040,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245387982,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245387951,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 681,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 245387826,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 319,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "dp",
+            "geometry"
+        ],
+        "id": 244450211,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 319,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "dp",
+            "geometry"
+        ],
+        "id": 244345737,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 319,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "dp",
+            "geometry"
+        ],
+        "id": 244345688,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 319,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "dp",
+            "geometry"
+        ],
+        "id": 244345598,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 319,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "dp",
+            "geometry"
+        ],
+        "id": 244345472,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 319,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "dp",
+            "geometry"
+        ],
+        "id": 244343557,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 319,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 2100,
+        "tags": [
+            "dp",
+            "geometry"
+        ],
+        "id": 244343448,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 244192478,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 244192412,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 244188120,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 244188093,
+        "programmingLanguage": "C++20 (GCC 11-64)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 244186827,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 244185798,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 244185573,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 244185275,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1924,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 244184453,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1924,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 244179118,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1924,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math",
+            "sortings"
+        ],
+        "id": 244176480,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 244158545,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 243860680,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 243860372,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 243858835,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 243855788,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 243854505,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 243853415,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 243852892,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 243851464,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1925,
+        "index": "C",
+        "points": 1250.0,
+        "rating": 1500,
+        "tags": [
+            "constructive algorithms",
+            "dp",
+            "greedy",
+            "implementation",
+            "strings"
+        ],
+        "id": 243848718,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1925,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 2100,
+        "tags": [
+            "data structures",
+            "implementation",
+            "math"
+        ],
+        "id": 243650197,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1925,
+        "index": "D",
+        "points": 1750.0,
+        "rating": 1900,
+        "tags": [
+            "combinatorics",
+            "dp",
+            "math",
+            "probabilities"
+        ],
+        "id": 243627698,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1925,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 243580693,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1925,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "strings"
+        ],
+        "id": 243570550,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103536,
+        "index": "B",
+        "tags": [],
+        "id": 243479845,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 243077727,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 243074030,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1083,
+        "index": "E",
+        "points": 2000.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "dp",
+            "geometry"
+        ],
+        "id": 243073497,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 166,
+        "index": "B",
+        "points": 3000.0,
+        "rating": 2100,
+        "tags": [
+            "geometry",
+            "sortings"
+        ],
+        "id": 243049662,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1143,
+        "index": "F",
+        "points": 2500.0,
+        "rating": 2400,
+        "tags": [
+            "data structures",
+            "geometry",
+            "math"
+        ],
+        "id": 243045624,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1902,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 235567033,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1902,
+        "index": "C",
+        "rating": 1300,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "greedy",
+            "math",
+            "number theory"
+        ],
+        "id": 235563093,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1902,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "brute force",
+            "greedy"
+        ],
+        "id": 235545829,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1902,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "constructive algorithms"
+        ],
+        "id": 235536421,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1903,
+        "index": "D2",
+        "points": 2500.0,
+        "rating": 2500,
+        "tags": [
+            "bitmasks",
+            "divide and conquer",
+            "dp",
+            "greedy"
+        ],
+        "id": 235531656,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1903,
+        "index": "E",
+        "points": 2250.0,
+        "rating": 2000,
+        "tags": [
+            "greedy",
+            "interactive",
+            "math"
+        ],
+        "id": 235125656,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1903,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1400,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 235116847,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1903,
+        "index": "D1",
+        "points": 1500.0,
+        "rating": 1700,
+        "tags": [
+            "binary search",
+            "bitmasks",
+            "brute force",
+            "greedy"
+        ],
+        "id": 235107589,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1903,
+        "index": "D1",
+        "points": 1500.0,
+        "rating": 1700,
+        "tags": [
+            "binary search",
+            "bitmasks",
+            "brute force",
+            "greedy"
+        ],
+        "id": 235105293,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1903,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 1200,
+        "tags": [
+            "bitmasks",
+            "brute force",
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 235094197,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1903,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "sortings"
+        ],
+        "id": 235085989,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1901,
+        "index": "D",
+        "rating": 1700,
+        "tags": [
+            "binary search",
+            "dp",
+            "greedy",
+            "implementation",
+            "math"
+        ],
+        "id": 234113348,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1901,
+        "index": "B",
+        "rating": 1100,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 234089988,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1901,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 234072956,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1895,
+        "index": "D",
+        "rating": 1900,
+        "tags": [
+            "bitmasks",
+            "constructive algorithms",
+            "data structures",
+            "math",
+            "string suffix structures",
+            "trees"
+        ],
+        "id": 232678916,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1895,
+        "index": "C",
+        "rating": 1400,
+        "tags": [
+            "brute force",
+            "dp",
+            "hashing",
+            "implementation",
+            "math"
+        ],
+        "id": 232674744,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1895,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 232670061,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1895,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 232668875,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1883,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 1700,
+        "tags": [
+            "bitmasks",
+            "greedy"
+        ],
+        "id": 229273202,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1883,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 1700,
+        "tags": [
+            "bitmasks",
+            "greedy"
+        ],
+        "id": 229269089,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1883,
+        "index": "E",
+        "points": 2500.0,
+        "rating": 1700,
+        "tags": [
+            "bitmasks",
+            "greedy"
+        ],
+        "id": 229262716,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1883,
+        "index": "C",
+        "points": 1500.0,
+        "rating": 1000,
+        "tags": [
+            "dp",
+            "math"
+        ],
+        "id": 229228615,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1883,
+        "index": "B",
+        "points": 1000.0,
+        "rating": 900,
+        "tags": [
+            "strings"
+        ],
+        "id": 229221494,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1883,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "math"
+        ],
+        "id": 229208069,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1886,
+        "index": "C",
+        "rating": 1600,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 228584924,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1886,
+        "index": "C",
+        "rating": 1600,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 228584212,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 1886,
+        "index": "C",
+        "rating": 1600,
+        "tags": [
+            "implementation",
+            "strings"
+        ],
+        "id": 228582643,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 1886,
+        "index": "B",
+        "rating": 1200,
+        "tags": [
+            "binary search",
+            "geometry",
+            "math"
+        ],
+        "id": 228577048,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1886,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 228574340,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1886,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "constructive algorithms",
+            "math"
+        ],
+        "id": 228571802,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1873,
+        "index": "H",
+        "rating": 1700,
+        "tags": [
+            "dfs and similar",
+            "dsu",
+            "games",
+            "graphs",
+            "shortest paths",
+            "trees"
+        ],
+        "id": 225552130,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1873,
+        "index": "H",
+        "rating": 1700,
+        "tags": [
+            "dfs and similar",
+            "dsu",
+            "games",
+            "graphs",
+            "shortest paths",
+            "trees"
+        ],
+        "id": 225551449,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1873,
+        "index": "G",
+        "rating": 1500,
+        "tags": [
+            "constructive algorithms",
+            "greedy"
+        ],
+        "id": 225548535,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1873,
+        "index": "F",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "two pointers"
+        ],
+        "id": 225547413,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1873,
+        "index": "E",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "sortings"
+        ],
+        "id": 225547150,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1873,
+        "index": "F",
+        "rating": 1300,
+        "tags": [
+            "binary search",
+            "greedy",
+            "math",
+            "two pointers"
+        ],
+        "id": 225545689,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1873,
+        "index": "E",
+        "rating": 1100,
+        "tags": [
+            "binary search",
+            "sortings"
+        ],
+        "id": 225543665,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1873,
+        "index": "D",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "implementation",
+            "two pointers"
+        ],
+        "id": 225542768,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1873,
+        "index": "C",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 225542075,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1873,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "math"
+        ],
+        "id": 225541543,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1873,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation"
+        ],
+        "id": 225541023,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104555,
+        "index": "I",
+        "tags": [],
+        "id": 223423726,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104555,
+        "index": "I",
+        "tags": [],
+        "id": 223423579,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104555,
+        "index": "I",
+        "tags": [],
+        "id": 223423490,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104555,
+        "index": "F",
+        "tags": [],
+        "id": 223423184,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104555,
+        "index": "A",
+        "tags": [],
+        "id": 223422962,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104555,
+        "index": "D",
+        "tags": [],
+        "id": 223419870,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104555,
+        "index": "D",
+        "tags": [],
+        "id": 223413247,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104555,
+        "index": "D",
+        "tags": [],
+        "id": 223407958,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104555,
+        "index": "D",
+        "tags": [],
+        "id": 223407681,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104555,
+        "index": "D",
+        "tags": [],
+        "id": 223406629,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104555,
+        "index": "D",
+        "tags": [],
+        "id": 223406328,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104555,
+        "index": "B",
+        "tags": [],
+        "id": 223397826,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1494,
+        "index": "D",
+        "rating": 2300,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "dfs and similar",
+            "divide and conquer",
+            "dsu",
+            "greedy",
+            "sortings",
+            "trees"
+        ],
+        "id": 223241823,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1494,
+        "index": "D",
+        "rating": 2300,
+        "tags": [
+            "constructive algorithms",
+            "data structures",
+            "dfs and similar",
+            "divide and conquer",
+            "dsu",
+            "greedy",
+            "sortings",
+            "trees"
+        ],
+        "id": 223240776,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1461,
+        "index": "D",
+        "points": 1500.0,
+        "rating": 1600,
+        "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "divide and conquer",
+            "implementation",
+            "sortings"
+        ],
+        "id": 223233521,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 1461,
+        "index": "D",
+        "points": 1500.0,
+        "rating": 1600,
+        "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "divide and conquer",
+            "implementation",
+            "sortings"
+        ],
+        "id": 223233345,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104555,
+        "index": "E",
+        "tags": [],
+        "id": 221722226,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104555,
+        "index": "E",
+        "tags": [],
+        "id": 221722023,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 104555,
+        "index": "C",
+        "tags": [],
+        "id": 221704877,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104551,
+        "index": "C",
+        "tags": [],
+        "id": 221483756,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104551,
+        "index": "C",
+        "tags": [],
+        "id": 221483145,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104551,
+        "index": "A",
+        "tags": [],
+        "id": 221473047,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104551,
+        "index": "A",
+        "tags": [],
+        "id": 221471525,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 100405,
+        "index": "C",
+        "tags": [],
+        "id": 220091465,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100405,
+        "index": "C",
+        "tags": [],
+        "id": 220090870,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 100405,
+        "index": "C",
+        "tags": [],
+        "id": 220090434,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 100405,
+        "index": "C",
+        "tags": [],
+        "id": 220090324,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 100405,
+        "index": "C",
+        "tags": [],
+        "id": 220089963,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 100405,
+        "index": "A",
+        "tags": [],
+        "id": 220087488,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100405,
+        "index": "A",
+        "tags": [],
+        "id": 220084700,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 100405,
+        "index": "A",
+        "tags": [],
+        "id": 220078830,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 100405,
+        "index": "B",
+        "tags": [],
+        "id": 220076094,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100405,
+        "index": "F",
+        "tags": [],
+        "id": 220073498,
+        "programmingLanguage": "Python 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 100405,
+        "index": "F",
+        "tags": [],
+        "id": 220073098,
+        "programmingLanguage": "Python 3",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 100405,
+        "index": "G",
+        "tags": [],
+        "id": 220070257,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1849,
+        "index": "D",
+        "rating": 1700,
+        "tags": [
+            "constructive algorithms",
+            "greedy",
+            "two pointers"
+        ],
+        "id": 219159861,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1849,
+        "index": "C",
+        "rating": 1600,
+        "tags": [
+            "binary search",
+            "brute force",
+            "data structures",
+            "hashing",
+            "strings"
+        ],
+        "id": 219155043,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1849,
+        "index": "B",
+        "rating": 1000,
+        "tags": [
+            "greedy",
+            "math",
+            "sortings"
+        ],
+        "id": 219146086,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1849,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 219144931,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102346,
+        "index": "K",
+        "tags": [],
+        "id": 218851154,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102346,
+        "index": "K",
+        "tags": [],
+        "id": 218850957,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102346,
+        "index": "K",
+        "tags": [],
+        "id": 218850206,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102346,
+        "index": "A",
+        "tags": [],
+        "id": 218849283,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102346,
+        "index": "K",
+        "tags": [],
+        "id": 218848708,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102346,
+        "index": "K",
+        "tags": [],
+        "id": 218848453,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102346,
+        "index": "M",
+        "tags": [],
+        "id": 218842255,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102346,
+        "index": "M",
+        "tags": [],
+        "id": 218841833,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102346,
+        "index": "L",
+        "tags": [],
+        "id": 218841626,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102346,
+        "index": "M",
+        "tags": [],
+        "id": 218841480,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102346,
+        "index": "L",
+        "tags": [],
+        "id": 218829970,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102346,
+        "index": "H",
+        "tags": [],
+        "id": 218829383,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102346,
+        "index": "B",
+        "tags": [],
+        "id": 218828344,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104262,
+        "index": "G",
+        "tags": [],
+        "id": 217911148,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104262,
+        "index": "D",
+        "tags": [],
+        "id": 217908952,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104262,
+        "index": "F",
+        "tags": [],
+        "id": 217907833,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104262,
+        "index": "E",
+        "tags": [],
+        "id": 217903254,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104262,
+        "index": "C",
+        "tags": [],
+        "id": 217898648,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101964,
+        "index": "C",
+        "tags": [],
+        "id": 215056142,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101964,
+        "index": "J",
+        "tags": [],
+        "id": 214964989,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101964,
+        "index": "J",
+        "tags": [],
+        "id": 214964951,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101964,
+        "index": "J",
+        "tags": [],
+        "id": 214964783,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101964,
+        "index": "J",
+        "tags": [],
+        "id": 214964602,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101964,
+        "index": "J",
+        "tags": [],
+        "id": 214964373,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 101964,
+        "index": "I",
+        "tags": [],
+        "id": 214958381,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101964,
+        "index": "B",
+        "tags": [],
+        "id": 214955074,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101964,
+        "index": "E",
+        "tags": [],
+        "id": 214944339,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104181,
+        "index": "G",
+        "tags": [],
+        "id": 211557930,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104181,
+        "index": "G",
+        "tags": [],
+        "id": 211557748,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104181,
+        "index": "G",
+        "tags": [],
+        "id": 211557731,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104181,
+        "index": "G",
+        "tags": [],
+        "id": 211557700,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104181,
+        "index": "I",
+        "tags": [],
+        "id": 211557482,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104181,
+        "index": "H",
+        "tags": [],
+        "id": 211556229,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104181,
+        "index": "F",
+        "tags": [],
+        "id": 211555741,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104181,
+        "index": "E",
+        "tags": [],
+        "id": 211555203,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104181,
+        "index": "D",
+        "tags": [],
+        "id": 211554778,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104181,
+        "index": "C",
+        "tags": [],
+        "id": 211554509,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104181,
+        "index": "D",
+        "tags": [],
+        "id": 211554269,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101669,
+        "index": "F",
+        "tags": [],
+        "id": 209803106,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101669,
+        "index": "F",
+        "tags": [],
+        "id": 209802180,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101669,
+        "index": "F",
+        "tags": [],
+        "id": 209801612,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101669,
+        "index": "K",
+        "tags": [],
+        "id": 209789446,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101669,
+        "index": "G",
+        "tags": [],
+        "id": 209787921,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101669,
+        "index": "G",
+        "tags": [],
+        "id": 209786416,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101669,
+        "index": "A",
+        "tags": [],
+        "id": 209785024,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101669,
+        "index": "A",
+        "tags": [],
+        "id": 209784388,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 102569,
+        "index": "D",
+        "tags": [],
+        "id": 209142885,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102569,
+        "index": "D",
+        "tags": [],
+        "id": 209142758,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 102569,
+        "index": "D",
+        "tags": [],
+        "id": 209142702,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102569,
+        "index": "D",
+        "tags": [],
+        "id": 209142183,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 102569,
+        "index": "D",
+        "tags": [],
+        "id": 209141543,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102569,
+        "index": "D",
+        "tags": [],
+        "id": 209141359,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "MEMORY_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 102569,
+        "index": "L",
+        "tags": [],
+        "id": 209140217,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102569,
+        "index": "B",
+        "tags": [],
+        "id": 209137572,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102569,
+        "index": "F",
+        "tags": [],
+        "id": 209135945,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102569,
+        "index": "I",
+        "tags": [],
+        "id": 209135711,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102569,
+        "index": "I",
+        "tags": [],
+        "id": 209135497,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 102569,
+        "index": "J",
+        "tags": [],
+        "id": 209135010,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102569,
+        "index": "H",
+        "tags": [],
+        "id": 209134825,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102569,
+        "index": "A",
+        "tags": [],
+        "id": 209134192,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102569,
+        "index": "K",
+        "tags": [],
+        "id": 209133906,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102569,
+        "index": "E",
+        "tags": [],
+        "id": 209133507,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 102569,
+        "index": "M",
+        "tags": [],
+        "id": 209133319,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203985769,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203985552,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203985438,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203985414,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203743194,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203743027,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203742886,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "COMPILATION_ERROR"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203742020,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203741822,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203741597,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203741058,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104118,
+        "index": "C",
+        "tags": [],
+        "id": 203740337,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104118,
+        "index": "C",
+        "tags": [],
+        "id": 203739978,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "RUNTIME_ERROR"
+    },
+    {
+        "contestId": 104118,
+        "index": "G",
+        "tags": [],
+        "id": 203739470,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203737580,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104118,
+        "index": "E",
+        "tags": [],
+        "id": 203734552,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 104118,
+        "index": "L",
+        "tags": [],
+        "id": 203729256,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104118,
+        "index": "K",
+        "tags": [],
+        "id": 203723394,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 104118,
+        "index": "A",
+        "tags": [],
+        "id": 203722547,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101522,
+        "index": "D",
+        "tags": [],
+        "id": 202299868,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101522,
+        "index": "E",
+        "tags": [],
+        "id": 202296681,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101522,
+        "index": "E",
+        "tags": [],
+        "id": 202291039,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101522,
+        "index": "E",
+        "tags": [],
+        "id": 202290743,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101522,
+        "index": "I",
+        "tags": [],
+        "id": 202290061,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101522,
+        "index": "B",
+        "tags": [],
+        "id": 202281267,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101522,
+        "index": "H",
+        "tags": [],
+        "id": 202280184,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101522,
+        "index": "H",
+        "tags": [],
+        "id": 202279654,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101522,
+        "index": "A",
+        "tags": [],
+        "id": 202278239,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101522,
+        "index": "K",
+        "tags": [],
+        "id": 202276246,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101522,
+        "index": "H",
+        "tags": [],
+        "id": 202276169,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101522,
+        "index": "K",
+        "tags": [],
+        "id": 202275569,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101522,
+        "index": "C",
+        "tags": [],
+        "id": 202272470,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101755,
+        "index": "M",
+        "tags": [],
+        "id": 200309478,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101755,
+        "index": "M",
+        "tags": [],
+        "id": 200309087,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "F",
+        "tags": [],
+        "id": 200308596,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101755,
+        "index": "F",
+        "tags": [],
+        "id": 200308139,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "H",
+        "tags": [],
+        "id": 200307795,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101755,
+        "index": "M",
+        "tags": [],
+        "id": 200307690,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "F",
+        "tags": [],
+        "id": 200307541,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "H",
+        "tags": [],
+        "id": 200305155,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "C",
+        "tags": [],
+        "id": 200303685,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101755,
+        "index": "M",
+        "tags": [],
+        "id": 200299168,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "L",
+        "tags": [],
+        "id": 200298969,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101755,
+        "index": "C",
+        "tags": [],
+        "id": 200297893,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "C",
+        "tags": [],
+        "id": 200296254,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "C",
+        "tags": [],
+        "id": 200295880,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "C",
+        "tags": [],
+        "id": 200294711,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "C",
+        "tags": [],
+        "id": 200293191,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "B",
+        "tags": [],
+        "id": 200292361,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101755,
+        "index": "E",
+        "tags": [],
+        "id": 200290711,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101755,
+        "index": "A",
+        "tags": [],
+        "id": 200289348,
+        "programmingLanguage": "Python 3",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 101755,
+        "index": "A",
+        "tags": [],
+        "id": 200288949,
+        "programmingLanguage": "Python 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "A",
+        "tags": [],
+        "id": 200288537,
+        "programmingLanguage": "Python 3",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 101755,
+        "index": "J",
+        "tags": [],
+        "id": 200288315,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103150,
+        "index": "G",
+        "tags": [],
+        "id": 193762276,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103150,
+        "index": "A",
+        "tags": [],
+        "id": 193753950,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103150,
+        "index": "E",
+        "tags": [],
+        "id": 193752411,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103150,
+        "index": "I",
+        "tags": [],
+        "id": 193750219,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103388,
+        "index": "G",
+        "tags": [],
+        "id": 174893772,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103388,
+        "index": "G",
+        "tags": [],
+        "id": 174799314,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103388,
+        "index": "M",
+        "tags": [],
+        "id": 174788928,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103388,
+        "index": "M",
+        "tags": [],
+        "id": 174788004,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 103388,
+        "index": "G",
+        "tags": [],
+        "id": 174786809,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 103388,
+        "index": "M",
+        "tags": [],
+        "id": 174782269,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+        "contestId": 103388,
+        "index": "K",
+        "tags": [],
+        "id": 174781887,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103388,
+        "index": "C",
+        "tags": [],
+        "id": 174781538,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103388,
+        "index": "E",
+        "tags": [],
+        "id": 174778080,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 103388,
+        "index": "H",
+        "tags": [],
+        "id": 174773486,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1658,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "constructive algorithms",
+            "implementation",
+            "math"
+        ],
+        "id": 155467157,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1654,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "greedy",
+            "implementation",
+            "sortings"
+        ],
+        "id": 155466486,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1657,
+        "index": "B",
+        "rating": 800,
+        "tags": [
+            "greedy"
+        ],
+        "id": 155466169,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 1660,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "greedy",
+            "math"
+        ],
+        "id": 155463224,
+        "programmingLanguage": "C++17 (GCC 7-32)",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 659,
+        "index": "D",
+        "points": 1250.0,
+        "rating": 1500,
+        "tags": [
+            "geometry",
+            "implementation",
+            "math"
+        ],
+        "id": 152870586,
+        "programmingLanguage": "GNU C11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 760,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 152796515,
+        "programmingLanguage": "GNU C11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 546,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "implementation",
+            "math"
+        ],
+        "id": 152795852,
+        "programmingLanguage": "GNU C11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 678,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 152795144,
+        "programmingLanguage": "GNU C11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 486,
+        "index": "A",
+        "points": 500.0,
+        "rating": 800,
+        "tags": [
+            "implementation",
+            "math"
+        ],
+        "id": 152794696,
+        "programmingLanguage": "GNU C11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 152794159,
+        "programmingLanguage": "GNU C11",
+        "verdict": "OK"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 152793878,
+        "programmingLanguage": "GNU C11",
+        "verdict": "WRONG_ANSWER"
+    },
+    {
+        "contestId": 4,
+        "index": "A",
+        "rating": 800,
+        "tags": [
+            "brute force",
+            "math"
+        ],
+        "id": 152793788,
+        "programmingLanguage": "GNU C11",
+        "verdict": "WRONG_ANSWER"
+    }
+]
