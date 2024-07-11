@@ -39,3 +39,14 @@ contest = [
     "city",
     "season"
 ]
+
+submission = [
+    "contestId",
+    "index",
+    "points",
+    "rating",
+    "tags",
+    "id",
+    "programmingLanguage",
+    "verdict",
+]
