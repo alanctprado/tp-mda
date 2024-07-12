@@ -41,6 +41,7 @@ contest = [
 ]
 
 submission = [
+    "handle",
     "contestId",
     "index",
     "points",
