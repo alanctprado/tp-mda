@@ -15,11 +15,12 @@ def main():
         fields = line.split(";")
         handle = fields[0]
         index = map_rating(fields[4])
+        ok = fields[8][:-1] == "OK"
 
         if not handle in handles:
             handles[handle] = [0] * 28
 
-        if index is None:
+        if index is None or not ok:
             continue
         
         handles[handle][index] += 1
@@ -34,7 +35,7 @@ def main():
         for count in solved[:-1]:
             print(str(count) + ",", end="")
         print(str(solved[-1]))
-        
+
 
 
 if __name__ == "__main__":
