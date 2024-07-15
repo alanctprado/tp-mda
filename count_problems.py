@@ -12,7 +12,7 @@ def get_max_ratings():
 
     max_ratings = {}
     for line in users:
-        fields = line.split(",")
+        fields = line.split("\t")
         handle = fields[0]
         max_rating = fields[13]
         max_ratings[handle] = max_rating
@@ -27,7 +27,7 @@ def main():
     
     solved = {}
     for line in file:
-        fields = line.split(";")
+        fields = line.split("\t")
         handle = fields[0]
 
         if not handle in max_ratings:

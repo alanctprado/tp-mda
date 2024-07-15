@@ -7,7 +7,7 @@ directory = './data/submissions'
 header = fields.submission
 
 with open('submissions.csv', 'w', newline='') as csvfile:
-    writer = csv.DictWriter(csvfile, fieldnames=header, delimiter=";")
+    writer = csv.DictWriter(csvfile, fieldnames=header, delimiter="\t")
     writer.writeheader()
     for json_file in os.listdir(directory):
         handle = json_file[:-5]
