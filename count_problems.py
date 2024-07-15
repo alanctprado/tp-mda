@@ -6,14 +6,33 @@ def map_rating(rating: str) -> int | None:
         return None
 
 
+def get_max_ratings():
+    users = open("output.csv")
+    next(users)
+
+    max_ratings = {}
+    for line in users:
+        fields = line.split(",")
+        handle = fields[0]
+        max_rating = fields[13]
+        max_ratings[handle] = max_rating
+
+    return max_ratings
+
+
 def main():
+    max_ratings = get_max_ratings()
     file = open("submissions.csv")
     next(file)
-
+    
     solved = {}
     for line in file:
         fields = line.split(";")
         handle = fields[0]
+
+        if not handle in max_ratings:
+            continue
+
         problem = fields[1] + fields[2]
         index = map_rating(fields[4])
         ok = fields[8][:-1] == "OK"
@@ -36,15 +55,18 @@ def main():
             handles[handle][index] += 1
     
     print("handle,", end="")
-    for i in range(800, 3500, 100):
+    for i in range(800, 3600, 100):
         print(str(i) + ",", end="")
-    print("3500")
+    print("max_rating")
 
     for handle, solved in handles.items():
+        if not handle in max_ratings:
+            continue
+
         print(handle + ",", end="")
         for count in solved[:-1]:
             print(str(count) + ",", end="")
-        print(str(solved[-1]))
+        print(max_ratings[handle])
 
 
 
