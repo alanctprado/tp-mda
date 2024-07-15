@@ -10,20 +10,30 @@ def main():
     file = open("submissions.csv")
     next(file)
 
-    handles = {}
+    solved = {}
     for line in file:
         fields = line.split(";")
         handle = fields[0]
+        problem = fields[1] + fields[2]
         index = map_rating(fields[4])
         ok = fields[8][:-1] == "OK"
 
+        if not handle in solved:
+            solved[handle] = {}
+        
+        if index is None or not ok:
+            continue
+
+        solved[handle][problem] = index
+
+
+    handles = {}
+    for handle, s in solved.items():
         if not handle in handles:
             handles[handle] = [0] * 28
 
-        if index is None or not ok:
-            continue
-        
-        handles[handle][index] += 1
+        for problem, index in s.items():
+            handles[handle][index] += 1
     
     print("handle,", end="")
     for i in range(800, 3500, 100):
