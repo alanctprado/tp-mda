@@ -15,7 +15,10 @@ def get_max_ratings():
         fields = line.split("\t")
         handle = fields[0]
         max_rating = fields[13]
-        max_ratings[handle] = max_rating
+        try:
+            max_ratings[handle] = int(max_rating)
+        except:
+            pass
 
     return max_ratings
 
@@ -64,7 +67,7 @@ def main():
             continue
 
         print(handle + ",", end="")
-        for count in solved[:-1]:
+        for count in solved:
             print(str(count) + ",", end="")
         print(max_ratings[handle])
 
