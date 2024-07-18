@@ -8,12 +8,15 @@
 #include <cmath>
 #include <algorithm>
 #include <chrono>
+#include <future>
+
+constexpr auto NUM_THREADS = size_t(10);
 
 constexpr auto NUM_FEATURES = size_t(28);
 constexpr auto POPULATION_SIZE = size_t(1000);
 constexpr auto SURVIVE_SIZE = size_t(100);
 constexpr auto HEAVY_MUTATE_SIZE = size_t(100);
-constexpr auto NUM_GENERATIONS = size_t(100);
+constexpr auto NUM_GENERATIONS = size_t(1000);
 
 constexpr auto START_BASELINE = float(700);
 constexpr auto START_LIMIT = float(100);
@@ -138,7 +141,7 @@ std::array<Model, POPULATION_SIZE> generate_first_population() {
 }
 
 // Range in interval [l, r]
-size_t gen_range(size_t l, size_t r) {
+size_t gen_range(const size_t l, const size_t r) {
     auto distribution = std::uniform_int_distribution<size_t>(l, r);
     return distribution(rng);
 }
@@ -171,8 +174,19 @@ int main() {
 
     for(size_t i = 0; i < NUM_GENERATIONS; i++) {
         std::array<std::pair<float, uint32_t>, POPULATION_SIZE> evaluation;
-        for(size_t j = 0; j < POPULATION_SIZE; j++) {
-            evaluation[j] = {calculate_error_all_inputs((*cur_population)[j], x, y), uint32_t(j)};
+
+        constexpr auto MODELS_PER_THREAD = POPULATION_SIZE / NUM_THREADS;
+        auto futures = std::vector<std::future<void>>();
+        for(size_t j = 0; j < POPULATION_SIZE; j += MODELS_PER_THREAD) {
+            futures.push_back(std::async(std::launch::async, [j, &evaluation, cur_population, &x, &y]() {
+                for(size_t k = j; k < j + MODELS_PER_THREAD; k++) {
+                    evaluation[k] = {calculate_error_all_inputs((*cur_population)[k], x, y), uint32_t(k)};
+                }
+            }));
+        }
+        
+        for(auto &future : futures) {
+            future.wait();
         }
 
         std::sort(evaluation.begin(), evaluation.end());
