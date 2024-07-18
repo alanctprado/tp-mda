@@ -11,16 +11,18 @@
 
 constexpr auto NUM_FEATURES = size_t(28);
 constexpr auto POPULATION_SIZE = size_t(1000);
-constexpr auto SURVIVE_SIZE = size_t(500);
+constexpr auto SURVIVE_SIZE = size_t(100);
+constexpr auto HEAVY_MUTATE_SIZE = size_t(100);
 constexpr auto NUM_GENERATIONS = size_t(100);
 
-constexpr auto START_BASELINE = float(800);
+constexpr auto START_BASELINE = float(700);
 constexpr auto START_LIMIT = float(100);
 constexpr auto START_GAIN = float(0.05);
-constexpr auto MIN_RATIO = float(800);
+constexpr auto MIN_RATIO = float(700);
 
 constexpr auto DEVIATION = float(1);
-constexpr auto CHANGE_RATIO = float(0.01);
+constexpr auto CHANGE_RATIO = float(0.001);
+constexpr auto HEAVY_CHANGE_RATIO = float(0.1);
 
 auto rng = std::mt19937(20042003);
 
@@ -81,19 +83,34 @@ float calculate_error_all_inputs(
 }
 
 
-float mutate_value(const float value) {
+float mutate_value(const float value, const float change_ratio) {
     auto distribution = std::normal_distribution<float>(0, DEVIATION);
-    return value * (1 + distribution(rng) * CHANGE_RATIO);
+    while(true) {
+        const auto res = value * (1 + distribution(rng) * change_ratio);
+        if(res > 0) {
+            return res;
+        }
+    }
 }
 
-Model mutate(const Model &parent) {
+Model mutate(const Model &parent, const float change_ratio) {
     auto result = parent;
-    result.baseline = mutate_value(result.baseline);
+    result.baseline = mutate_value(result.baseline, change_ratio);
     for(auto &limit : result.limit) {
-        limit = mutate_value(limit);
+        limit = mutate_value(limit, change_ratio);
     }
     for(auto &gain : result.gain) {
-        gain = mutate_value(gain);
+        gain = mutate_value(gain, change_ratio);
+    }
+    return result;
+}
+
+Model join(const Model &parent1, const Model &parent2) {
+    auto result = Model();
+    result.baseline = (parent1.baseline + parent2.baseline) / 2;
+    for(size_t i = 0; i < NUM_FEATURES; i++) {
+        result.limit[i] = (parent1.limit[i] + parent2.limit[i]) / 2;
+        result.gain[i] = (parent1.gain[i] + parent2.gain[i]) / 2;
     }
     return result;
 }
@@ -115,9 +132,15 @@ std::array<Model, POPULATION_SIZE> generate_first_population() {
     const auto root = generate_root_model();
     auto population = std::array<Model, POPULATION_SIZE>();
     for(auto &model : population) {
-        model = mutate(root);
+        model = mutate(root, HEAVY_CHANGE_RATIO);
     }
     return population;
+}
+
+// Range in interval [l, r]
+size_t gen_range(size_t l, size_t r) {
+    auto distribution = std::uniform_int_distribution<size_t>(l, r);
+    return distribution(rng);
 }
 
 
@@ -136,6 +159,8 @@ int main() {
         y.push_back(cy);
         x.push_back(cx);
     }
+    // Numero de linhas: 58930
+
 
     auto population1 = std::array<Model, POPULATION_SIZE>();
     auto population2 = std::array<Model, POPULATION_SIZE>();
@@ -166,7 +191,15 @@ int main() {
             (*nxt_population)[j] = (*cur_population)[evaluation[j].second];
         }
         for(size_t j = SURVIVE_SIZE; j < POPULATION_SIZE; j++) {
-            (*nxt_population)[j] = mutate((*cur_population)[evaluation[j - SURVIVE_SIZE].second]);
+            const auto idx1 = gen_range(0, SURVIVE_SIZE - 1);
+            const auto idx2 = gen_range(0, SURVIVE_SIZE - 1);
+            const auto &parent1 = (*cur_population)[idx1];
+            const auto &parent2 = (*cur_population)[idx2];
+            (*nxt_population)[j] = mutate(join(parent1, parent2), CHANGE_RATIO);
+        }
+        for(size_t j = 0; j < HEAVY_MUTATE_SIZE; j++) {
+            const auto model = (*nxt_population)[j + SURVIVE_SIZE];
+            (*nxt_population)[j + SURVIVE_SIZE] = mutate(model, HEAVY_CHANGE_RATIO);
         }
 
         std::swap(cur_population, nxt_population);
