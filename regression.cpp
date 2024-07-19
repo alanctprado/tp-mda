@@ -10,24 +10,23 @@
 #include <chrono>
 #include <future>
 
-constexpr auto NUM_THREADS = size_t(10);
+constexpr auto NUM_THREADS = size_t(12);
 
 constexpr auto NUM_FEATURES = size_t(28);
-constexpr auto POPULATION_SIZE = size_t(1000);
-constexpr auto SURVIVE_SIZE = size_t(100);
-constexpr auto HEAVY_MUTATE_SIZE = size_t(100);
-constexpr auto NUM_GENERATIONS = size_t(1000);
+constexpr auto POPULATION_SIZE = size_t(1200);
+constexpr auto SURVIVE_SIZE = size_t(120);
+constexpr auto NUM_GENERATIONS = size_t(5000);
 
 constexpr auto START_BASELINE = float(700);
 constexpr auto START_LIMIT = float(100);
 constexpr auto START_GAIN = float(0.05);
 constexpr auto MIN_RATIO = float(700);
+constexpr auto MIN_PROBLEMS_SOLVED = float(20);
 
-constexpr auto DEVIATION = float(1);
-constexpr auto CHANGE_RATIO = float(0.001);
-constexpr auto HEAVY_CHANGE_RATIO = float(0.1);
+constexpr auto START_CHANGE_RATIO = float(0.00001);
+constexpr auto END_CHANGE_RATIO = float(0.1);
 
-auto rng = std::mt19937(20042003);
+auto rng = std::mt19937(30062003);
 
 
 std::tuple<float, std::array<float, NUM_FEATURES>> parse_line(const std::string &line) {
@@ -87,7 +86,7 @@ float calculate_error_all_inputs(
 
 
 float mutate_value(const float value, const float change_ratio) {
-    auto distribution = std::normal_distribution<float>(0, DEVIATION);
+    auto distribution = std::normal_distribution<float>();
     while(true) {
         const auto res = value * (1 + distribution(rng) * change_ratio);
         if(res > 0) {
@@ -135,7 +134,7 @@ std::array<Model, POPULATION_SIZE> generate_first_population() {
     const auto root = generate_root_model();
     auto population = std::array<Model, POPULATION_SIZE>();
     for(auto &model : population) {
-        model = mutate(root, HEAVY_CHANGE_RATIO);
+        model = mutate(root, END_CHANGE_RATIO);
     }
     return population;
 }
@@ -146,6 +145,13 @@ size_t gen_range(const size_t l, const size_t r) {
     return distribution(rng);
 }
 
+float sum_problems(const std::array<float, NUM_FEATURES> &x) {
+    float sum = 0;
+    for(auto &t : x) {
+        sum += t;
+    }
+    return sum;
+}
 
 int main() {
 
@@ -156,13 +162,14 @@ int main() {
     auto x = std::vector<std::array<float, NUM_FEATURES>>();
     while(std::cin >> line) {
         const auto [cy, cx] = parse_line(line);
-        if(cy < MIN_RATIO) {
+        const auto sum = sum_problems(cx);
+        if(cy < MIN_RATIO || sum < MIN_PROBLEMS_SOLVED) {
             continue;
         }
         y.push_back(cy);
         x.push_back(cx);
     }
-    // Numero de linhas: 58930
+    // Numero de linhas: 48323
 
 
     auto population1 = std::array<Model, POPULATION_SIZE>();
@@ -190,6 +197,8 @@ int main() {
         }
 
         std::sort(evaluation.begin(), evaluation.end());
+
+        std::cout << i << '/' << NUM_GENERATIONS << '\n';
         std::cout << evaluation[0].first << '\n';
         std::cout << (*cur_population)[evaluation[0].second].baseline << '\n';
         for(auto &limit : (*cur_population)[evaluation[0].second].limit) {
@@ -201,6 +210,8 @@ int main() {
         }
         std::cout << '\n';
 
+        const auto grow_ratio = END_CHANGE_RATIO / START_CHANGE_RATIO;
+        const auto grow_step = std::pow(grow_ratio, 1.0f / (POPULATION_SIZE - SURVIVE_SIZE));
         for(size_t j = 0; j < SURVIVE_SIZE; j++) {
             (*nxt_population)[j] = (*cur_population)[evaluation[j].second];
         }
@@ -209,11 +220,8 @@ int main() {
             const auto idx2 = gen_range(0, SURVIVE_SIZE - 1);
             const auto &parent1 = (*cur_population)[idx1];
             const auto &parent2 = (*cur_population)[idx2];
-            (*nxt_population)[j] = mutate(join(parent1, parent2), CHANGE_RATIO);
-        }
-        for(size_t j = 0; j < HEAVY_MUTATE_SIZE; j++) {
-            const auto model = (*nxt_population)[j + SURVIVE_SIZE];
-            (*nxt_population)[j + SURVIVE_SIZE] = mutate(model, HEAVY_CHANGE_RATIO);
+            const auto change_ratio = START_CHANGE_RATIO * std::pow(grow_step, float(j - SURVIVE_SIZE));
+            (*nxt_population)[j] = mutate(join(parent1, parent2), change_ratio);
         }
 
         std::swap(cur_population, nxt_population);
