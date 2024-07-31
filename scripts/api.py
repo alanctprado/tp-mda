@@ -9,7 +9,7 @@ from typing import Tuple
 
 
 API = "https://codeforces.com/api"
-with open(environ["MDABASEDIR"]+"credentials.json") as f:
+with open(environ["MDABASEDIR"]+"/credentials.json") as f:
     credentials = json.load(f)
 
 
