@@ -1,5 +1,5 @@
 user = [
-    "handle",
+    "handle", # User handle
     "email",
     "vkId",
     "openId",
@@ -20,6 +20,18 @@ user = [
     "titlePhoto"
 ]
 
+submission = [
+    "handle", # User handle
+    "contestId",
+    "index",
+    "points",
+    "rating",
+    "tags",
+    "id",
+    "programmingLanguage",
+    "verdict",
+]
+
 contest = [
     "id",
     "name",
@@ -38,16 +50,4 @@ contest = [
     "country",
     "city",
     "season"
-]
-
-submission = [
-    "handle",
-    "contestId",
-    "index",
-    "points",
-    "rating",
-    "tags",
-    "id",
-    "programmingLanguage",
-    "verdict",
 ]
