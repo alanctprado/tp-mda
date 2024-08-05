@@ -1,18 +1,22 @@
 import json
-from os import makedirs
+from os import environ, makedirs
 from os.path import exists
 from api import call
 import sys
 
 
-DEFAULT_DIR = "data/users/"
+USERS_DIR = environ["MDADATADIR"] + "/users/"
 
 
 def split_json_file(data: dict) -> None:
+    """
+    Splits a dictionary containing several users into one JSON file for each
+    user.
+    """
     for obj in data:
         if 'handle' not in obj:
             raise ValueError("One of the objects does not contain a 'handle' field")
-        output_file = DEFAULT_DIR + f"{obj['handle']}.json"
+        output_file = USERS_DIR + f"{obj['handle']}.json"
         with open(output_file, 'w') as file:
             json.dump(obj, file, indent=4)
 
@@ -22,8 +26,8 @@ def main():
         raise RuntimeError("Wrong usage! User list should be passed as a parameter")
     users = sys.argv[1]
     data = call("user.info", {"handles": users})
-    if not exists(DEFAULT_DIR):
-        makedirs(DEFAULT_DIR)
+    if not exists(USERS_DIR):
+        makedirs(USERS_DIR)
     split_json_file(data)
 
 

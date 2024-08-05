@@ -1,23 +1,15 @@
 #!/usr/bin/sh
 
-if [ -z "$1" ]; then echo "Usage: $0 <true|false>"; exit 1; fi
-
-arg=$1
-if [ "$arg" = "true" ]; then get_users="true"
-elif [ "$arg" = "false" ]; then get_users=""
-else echo "Invalid argument. Please use 'true' or 'false'."; exit 1; fi
-
-if [ -d "venv" ]; then source venv/bin/activate; fi
-
-if [ ! -f "data/users.txt" ] || [ -n "$get_users" ]; then
+if [ ! -f "$MDADATADIR/contests" ] ; then
     echo "Fetching data from Codeforces, please wait..."
-    python3 get_contests.py
-    cat data/contests/*users.txt | sort -u > data/users.txt
+    python get_contests.py
 fi
 
-echo "Found $(wc -l data/users.txt | cut -d' ' -f1) unique users!"
+cat $MDADATADIR/contests/*users.txt | sort -u > $MDADATADIR/users.txt
 
-split -l 500 data/users.txt chunk_
+echo "Found $(wc -l "$MDADATADIR/users.txt" | cut -d' ' -f1) unique users!"
+
+split -l 500 "$MDADATADIR/users.txt chunk_"
 
 for chunk in chunk_*
 do
