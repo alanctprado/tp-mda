@@ -8,7 +8,7 @@ from os.path import exists
 from os import environ, makedirs
 
 
-CONTESTS_DIR = environ["MDADATADIR"] + "/contests"
+CONTESTS_DIR = environ["MDADATADIR"] + "/contests/"
 def contest_path(id: str) -> str: return CONTESTS_DIR + f"{id}.json"
 def users_path(id: str) -> str: return CONTESTS_DIR + f"{id}_users.txt"
 def ratings_path(id: str) -> str: return CONTESTS_DIR + f"{id}_ratings.json"

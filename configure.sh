@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/usr/bin/sh
 
 # INITIAL SETUP ----------------------------------------------------------------
 PROJECT_ROOT=$(realpath $(dirname $0))
@@ -39,4 +39,12 @@ echo "Getting contest data..."
 python $SCRIPT_DIR/get_contests.py
 echo "Done!"
 
+# GET ALL USERS ----------------------------------------------------------------
+echo "Getting user data..."
+sh $SCRIPT_DIR/get_users.sh
+echo "Done!"
+
 # GET ACTIVE USERS -------------------------------------------------------------
+echo "Getting active users data..."
+python $SCRIPT_DIR/get_active_users.py
+echo "Done!"

@@ -16,4 +16,5 @@ with open('submissions.csv', 'w', newline='') as csvfile:
             for item in data:
                 row_data = item.copy()
                 row_data["handle"] = handle
+                print(row_data)
                 writer.writerow(row_data)
