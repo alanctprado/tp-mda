@@ -16,6 +16,9 @@ def standings_path(id: str) -> str: return CONTESTS_DIR + f"{id}_standings.json"
 def status_path(id: str) -> str: return CONTESTS_DIR + f"{id}_status.json"
 
 
+DOWNLOAD_ALL = False
+
+
 def getContests() -> list:
     """
     Gets the ID of every CodeForces contests.
@@ -33,8 +36,8 @@ def getContestUsersRatings(id: str) -> int:
     """
     Gets the rating and user data for a specific contest.
     """
-    getContestStandings(id)
-    if exists(users_path(id)) and exists(ratings_path(id)):
+    if DOWNLOAD_ALL: getContestStandings(id)
+    if exists(users_path(id)) and (not DOWNLOAD_ALL or exists(ratings_path(id))):
         return 1
 
     try:

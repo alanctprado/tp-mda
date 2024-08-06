@@ -2,7 +2,7 @@
 
 # INITIAL SETUP ----------------------------------------------------------------
 PROJECT_ROOT=$(realpath $(dirname $0))
-DATA_DIR="$PROJECT_ROOT/data2"
+DATA_DIR="$PROJECT_ROOT/data"
 VENV_DIR="$PROJECT_ROOT/venv"
 SCRIPT_DIR="$PROJECT_ROOT/scripts"
 
@@ -48,3 +48,10 @@ echo "Done!"
 echo "Getting active users data..."
 python $SCRIPT_DIR/get_active_users.py
 echo "Done!"
+
+# GET ACTIVE USERS' SUBMISSIONS ------------------------------------------------
+echo "Getting submissions for active users..."
+sh $SCRIPT_DIR/get_submissions.sh
+echo "Done!"
+
+echo "All data was downloaded successfully! :)"
