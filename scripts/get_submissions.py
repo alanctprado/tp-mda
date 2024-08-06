@@ -1,11 +1,10 @@
 import json
-from os import environ, makedirs
-from os.path import exists
+from os import environ
 from api import call
 import sys
 
 
-DEFAULT_DIR = environ["MDABASEDIR"] + "data/submissions/"
+SUBMISSIONS_DIR = environ["MDADATADIR"] + "/submissions/"
 
 
 def split_json_file(data: list, handle: str) -> None:
@@ -21,7 +20,7 @@ def split_json_file(data: list, handle: str) -> None:
             if key in obj:
                 problem[key] = obj[key]
         final_data.append(problem)
-    output_file = DEFAULT_DIR + f"{handle}.json"
+    output_file = SUBMISSIONS_DIR + f"{handle}.json"
     with open(output_file, 'w') as file:
         json.dump(final_data, file, indent=4)
 
@@ -31,8 +30,6 @@ def main():
         raise RuntimeError("Wrong usage! User handle should be passed as a parameter")
     user = sys.argv[1]
     data = call("user.status", {"handle": user})
-    if not exists(DEFAULT_DIR):
-        makedirs(DEFAULT_DIR)
     split_json_file(data, user)
 
 
