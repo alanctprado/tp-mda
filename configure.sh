@@ -2,7 +2,7 @@
 
 # INITIAL SETUP ----------------------------------------------------------------
 PROJECT_ROOT=$(realpath $(dirname $0))
-DATA_DIR="$PROJECT_ROOT/data"
+DATA_DIR="$PROJECT_ROOT/data3"
 VENV_DIR="$PROJECT_ROOT/venv"
 SCRIPT_DIR="$PROJECT_ROOT/scripts"
 
@@ -27,7 +27,7 @@ fi
 source $VENV_DIR/bin/activate
 
 echo "Checking and installing Python dependencies..."
-pip freeze > req.txt
+pip install -r $SCRIPT_DIR/requirements.txt
 echo "Done!"
 
 export MDABASEDIR=$PROJECT_ROOT
