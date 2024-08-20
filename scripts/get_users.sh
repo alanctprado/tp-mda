@@ -6,7 +6,7 @@ then
     python "$MDASCRIPTDIR/get_contests.py"
 fi
 
-cat $MDADATADIR/contests/*users.txt | sort -u > $MDADATADIR/users.txt
+sort -u $MDADATADIR/contests/*users.txt > $MDADATADIR/users.txt
 
 echo "Found $(wc -l "$MDADATADIR/users.txt" | cut -d' ' -f1) unique users!"
 
